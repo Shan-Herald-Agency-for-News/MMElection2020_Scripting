@@ -1,0 +1,10 @@
+# except img and policy directory
+
+#### candidatesImg ####
+candidatesImg/*
+
+#### party image ####
+party/*
+
+#### Shan region party ####
+122071215_992242737943380_4297318687094112216_n.jpg
