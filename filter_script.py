@@ -7,6 +7,7 @@ shanRegionPartiesID = [38, 16, 2, 5, 73, 124, 27, 122, 112, 15, 56, 110, 32,
 
 candidates_attributes = []
 parties_attributes = []
+parties = []
 
 
 def shanStateRegionCandidate():
@@ -24,6 +25,7 @@ def shanStateRegionParty():
 
         for d in data['data']:
             parties_attributes.append(d['attributes'])
+            parties.append(d)
 
 
 def _candidates_attributes_filter(attr_name, filePath):
@@ -44,6 +46,21 @@ def _candidates_attributes_filter(attr_name, filePath):
     else:
         saveFilterToText(attr_name, filePath, filterDuplicate)
 
+def _candidates_name_filter(party, filePath):
+    shanStateRegionCandidate()
+
+    attr = []
+    filter = []
+
+    for d in candidates_attributes:
+        for i in d['party']['attributes']:
+            if i['abbreviation'] == party:
+                attr.append(d['attributes']['name'])
+    if not attr:
+        print("Empty")
+    else:
+        saveFilterToText(party, filePath, attr)
+
 
 def _parties_attributes_filter(attr_name, filePath):
 
@@ -61,6 +78,20 @@ def _parties_attributes_filter(attr_name, filePath):
         print("Empty")
     else:
         saveFilterToText(attr_name, filePath, filterDuplicate)
+
+def _parties_filter(attr_name, filePath):
+
+    shanStateRegionParty()
+
+    attr_value = []
+
+    for d in parties:
+        attr_value.append(d[attr_name])
+
+    if not attr_value:
+        print("Empty")
+    else:
+        saveFilterToText(attr_name, filePath, attr_value)
 
 
 def _constituency_filter(attr_name, filePath):
@@ -111,8 +142,11 @@ def saveFilterToText(fileName, fileDir, value):
 # _constituency_filter("name", 'constituency')
 # _constituency_filter("state_region", 'constituency')
 
-_parties_attributes_filter('member_count', 'parties')
-_parties_attributes_filter('leaders_and_chairmen', 'parties')
-_parties_attributes_filter('region', 'parties')
-_parties_attributes_filter('name_burmese', 'parties')
-_parties_attributes_filter('name_english', 'parties')
+# _parties_attributes_filter('member_count', 'parties')
+# _parties_attributes_filter('leaders_and_chairmen', 'parties')
+# _parties_attributes_filter('region', 'parties')
+# _parties_attributes_filter('name_burmese', 'parties')
+# _parties_attributes_filter('name_english', 'parties')
+# _parties_attributes_filter('abbreviation', 'parties')
+# _parties_attributes_filter('flag_image', 'parties')
+_parties_filter('id', 'parties')
