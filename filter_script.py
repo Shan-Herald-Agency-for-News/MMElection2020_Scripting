@@ -141,6 +141,7 @@ def saveFilterToText(fileName, fileDir, value):
 # _candidates_attributes_filter('representing_ethnicity', 'candidates')
 # _constituency_filter("name", 'constituency')
 # _constituency_filter("state_region", 'constituency')
+# _constituency_filter("township", 'constituency')
 
 # _parties_attributes_filter('member_count', 'parties')
 # _parties_attributes_filter('leaders_and_chairmen', 'parties')
@@ -149,4 +150,4 @@ def saveFilterToText(fileName, fileDir, value):
 # _parties_attributes_filter('name_english', 'parties')
 # _parties_attributes_filter('abbreviation', 'parties')
 # _parties_attributes_filter('flag_image', 'parties')
-_parties_filter('id', 'parties')
+# _parties_filter('id', 'parties')

@@ -1,928 +1,928 @@
 {
   "data": [
-    {
-      "attributes": {
-        "member_count": "ပုဒ်မ ၂၅ အရ လျှောက်ထားခြင်း",
-        "leaders_and_chairmen": [
-          "ဦးသန်းတင်၊ ဦးသိန်းထွန်း (ထွေ/မှူး)"
-        ],
-        "establishment_approval_date": "ပုဒ်မ ၂၅ အရ လျှောက်ထားခြင်း",
-        "name_english": "National Unity Party",
-        "registered_number": 2,
-        "region": "ပြည်ထောင်စုတစ်ဝန်းလုံး",
-        "seal_image": "https://maepaysoh.org/seals/2.EthnicUnityPartyS.jpg",
-        "contacts": [
-          "၀၁ ၅၄၁၉၆၁ (ဦးနေဝင်း)",
-          "၀၁ ၅၅၇၄၈၀",
-          "၀၁၅၅၄၂၁၉(ဖက်စ်)",
-          "၀၁ ၅၅၇၄၅၆",
-          "၀၁ ၃၈၆၉၃၆(ဦးဟန်ရွှေ)",
-          "၀၉၄၂၁၁၀၉၅၄၉",
-          "၀၉၉၇၃၁၂၀၈၇၈ (ဦးသိန်းထွန်း)",
-          "၀၉ ၄၂၁၁၀၉၅၅၀  (ဦးထွန်းရီ)"
-        ],
-        "flag_image": "https://maepaysoh.org/flags/2.EthnicUnityPartyF.jpg",
-        "abbreviation": "NUP",
-        "headquarter_address": "အမှတ်(၂၄)၊ အောင်ဇေယျလမ်း၊ ရွှေတောင်ကြား (၁)ရပ်ကွက်၊ ဗဟန်းမြို့နယ်၊ ရန်ကုန်တိုင်းဒေသကြီး။",
-        "establishment_application_date": null,
-        "policy": "https://uec.gov.mm/show_data_content.php?name=2_TYTSNYAP.pdf&type=page_multiple_photo&code=40&sno=7212&token=24d3da66b31ddd68ba56a33f2b16c3116cbeb9fc7d030e6e8e5bb6c0c42b6449f1c61be771653b623873762bc0b8629afe9acfc6167fa643b142472090f53038",
-        "registration_approved_date": "၂၉-၄-၂၀၁၀",
-        "registration_application_date": "၂၉-၃-၂၀၁၀",
-        "name_burmese": "တိုင်းရင်းသားစည်းလုံးညီညွတ်ရေးပါတီ"
-      },
-      "type": "party",
-      "id": "2"
+  {
+    "attributes": {
+      "member_count": "ပုဒ်မ ၂၅ အရ လျှောက်ထားခြင်း",
+      "leaders_and_chairmen": [
+        "ဦးသန်းတင်၊ ဦးသိန်းထွန်း (ထွေ/မှူး)"
+      ],
+      "establishment_approval_date": "ပုဒ်မ ၂၅ အရ လျှောက်ထားခြင်း",
+      "name_english": "National Unity Party",
+      "registered_number": 2,
+      "region": "ပြည်ထောင်စုတစ်ဝန်းလုံး",
+      "seal_image": "https://maepaysoh.org/seals/2.EthnicUnityPartyS.jpg",
+      "contacts": [
+        "၀၁ ၅၄၁၉၆၁ (ဦးနေဝင်း)",
+        "၀၁ ၅၅၇၄၈၀",
+        "၀၁၅၅၄၂၁၉(ဖက်စ်)",
+        "၀၁ ၅၅၇၄၅၆",
+        "၀၁ ၃၈၆၉၃၆(ဦးဟန်ရွှေ)",
+        "၀၉၄၂၁၁၀၉၅၄၉",
+        "၀၉၉၇၃၁၂၀၈၇၈ (ဦးသိန်းထွန်း)",
+        "၀၉ ၄၂၁၁၀၉၅၅၀  (ဦးထွန်းရီ)"
+      ],
+      "flag_image": "https://maepaysoh.org/flags/2.EthnicUnityPartyF.jpg",
+      "abbreviation": "NUP",
+      "headquarter_address": "အမှတ်(၂၄)၊ အောင်ဇေယျလမ်း၊ ရွှေတောင်ကြား (၁)ရပ်ကွက်၊ ဗဟန်းမြို့နယ်၊ ရန်ကုန်တိုင်းဒေသကြီး။",
+      "establishment_application_date": null,
+      "policy": "https://uec.gov.mm/show_data_content.php?name=2_TYTSNYAP.pdf&type=page_multiple_photo&code=40&sno=7212&token=24d3da66b31ddd68ba56a33f2b16c3116cbeb9fc7d030e6e8e5bb6c0c42b6449f1c61be771653b623873762bc0b8629afe9acfc6167fa643b142472090f53038",
+      "registration_approved_date": "၂၉-၄-၂၀၁၀",
+      "registration_application_date": "၂၉-၃-၂၀၁၀",
+      "name_burmese": "တိုင်းရင်းသားစည်းလုံးညီညွတ်ရေးပါတီ"
     },
-    {
-      "attributes": {
-        "member_count": "ပုဒ်မ ၂၅ အရ လျှောက်ထားခြင်း",
-        "leaders_and_chairmen": [
-          "ဒေါ်အေးသီတာမြင့်၊ ဦးဂျာပို (ထွေ/မှူး)၊"
-        ],
-        "establishment_approval_date": "ပုဒ်မ ၂၅ အရ လျှောက်ထားခြင်း",
-        "name_english": "Lahu National Development Party",
-        "registered_number": 3,
-        "region": "ရှမ်းပြည်နယ်အတွင်း",
-        "seal_image": "https://maepaysoh.org/seals/3.LahuNationalDevelopmentS.jpg",
-        "contacts": [
-          "၀၉ ၄၂၈၂၁၉၀၈၆",
-          "၀၉ ၄၉၂၁၉၆၇၂ (ဦးယောသပ်) ၀၉ ၄၂၈၂၁၉၀၈၁",
-          "၀၈၂ ၂၃၁၀၆",
-          "၀၉ ၅၂၆၀၂၉၄",
-          "၀၉ ၄၅၄၆၇၅၂၂၇ (ဦးကျရှီးမွန်)"
-        ],
-        "flag_image": "https://maepaysoh.org/flags/3.LahuNationalDevelopmentF.jpg",
-        "abbreviation": "LNDP",
-        "headquarter_address": "အမှတ်(၄၉)၊ ပြည်တော်သာလမ်းနှင့် အေးချမ်းသာယာ လမ်းသွယ် (၃)ကြား၊ နယ်မြေ(၇)၊ ရပ်ကွက် (၁)၊ လားရှိုးမြို့။",
-        "establishment_application_date": null,
-        "policy": "https://uec.gov.mm/show_data_content.php?name=3LaHuNationalDevelopmentParty.pdf&type=page_multiple_photo&code=41&sno=2525&token=eea9ce720ff7060503e214905f469ec033e0fb7b543b23d0165ac0446ae8b11eea41a5bf5931ae435867ef9cf1188a744a389187ddf02efffda1a836203761d6",
-        "registration_approved_date": "၂၉-၄-၂၀၁၀",
-        "registration_application_date": "၂၃-၄-၂၀၁၀",
-        "name_burmese": "လားဟူအမျိုးသားဖွံ့ဖြိုးတိုးတက်ရေးပါတီ"
-      },
-      "type": "party",
-      "id": "3"
+    "type": "party",
+    "id": "2"
+  },
+  {
+    "attributes": {
+      "member_count": "ပုဒ်မ ၂၅ အရ လျှောက်ထားခြင်း",
+      "leaders_and_chairmen": [
+        "ဒေါ်အေးသီတာမြင့်၊ ဦးဂျာပို (ထွေ/မှူး)၊"
+      ],
+      "establishment_approval_date": "ပုဒ်မ ၂၅ အရ လျှောက်ထားခြင်း",
+      "name_english": "Lahu National Development Party",
+      "registered_number": 3,
+      "region": "ရှမ်းပြည်နယ်အတွင်း",
+      "seal_image": "https://maepaysoh.org/seals/3.LahuNationalDevelopmentS.jpg",
+      "contacts": [
+        "၀၉ ၄၂၈၂၁၉၀၈၆",
+        "၀၉ ၄၉၂၁၉၆၇၂ (ဦးယောသပ်) ၀၉ ၄၂၈၂၁၉၀၈၁",
+        "၀၈၂ ၂၃၁၀၆",
+        "၀၉ ၅၂၆၀၂၉၄",
+        "၀၉ ၄၅၄၆၇၅၂၂၇ (ဦးကျရှီးမွန်)"
+      ],
+      "flag_image": "https://maepaysoh.org/flags/3.LahuNationalDevelopmentF.jpg",
+      "abbreviation": "LNDP",
+      "headquarter_address": "အမှတ်(၄၉)၊ ပြည်တော်သာလမ်းနှင့် အေးချမ်းသာယာ လမ်းသွယ် (၃)ကြား၊ နယ်မြေ(၇)၊ ရပ်ကွက် (၁)၊ လားရှိုးမြို့။",
+      "establishment_application_date": null,
+      "policy": "https://uec.gov.mm/show_data_content.php?name=3LaHuNationalDevelopmentParty.pdf&type=page_multiple_photo&code=41&sno=2525&token=eea9ce720ff7060503e214905f469ec033e0fb7b543b23d0165ac0446ae8b11eea41a5bf5931ae435867ef9cf1188a744a389187ddf02efffda1a836203761d6",
+      "registration_approved_date": "၂၉-၄-၂၀၁၀",
+      "registration_application_date": "၂၃-၄-၂၀၁၀",
+      "name_burmese": "လားဟူအမျိုးသားဖွံ့ဖြိုးတိုးတက်ရေးပါတီ"
     },
-    {
-      "attributes": {
-        "member_count": "ပုဒ်မ ၂၅ အရ လျှောက်ထားခြင်း",
-        "leaders_and_chairmen": [
-          "ဦးထွန်းနိုင်၊ ဦးအောင်ကျော်ဖြိုး(ခ)၊ ဟော်ထိုက်ကျင်း"
-        ],
-        "establishment_approval_date": "ပုဒ်မ ၂၅ အရ လျှောက်ထားခြင်း",
-        "name_english": "Kokang Democracy and Unity Party",
-        "registered_number": 4,
-        "region": "ရှမ်းပြည်နယ်အတွင်း",
-        "seal_image": "https://maepaysoh.org/seals/4.KDUPS.jpg",
-        "contacts": [
-          "၀၉ ၅၀၃၅၉၅၁ (ဦးထွန်းနိုင် ဥက္ကဋ္ဌ)",
-          "၀၁ ၅၅၉၅၃၉ ၀၁ ၅၅၉၅၄၀-၁၃၃ (ဖက်စ်)",
-          "၀၉ ၅၂၆၂၁၉၅ (ဦးလော်ဆင်ကွမ်း)",
-          "၀၈၁ ၂၂၂၂၄ (ဖုန်း)",
-          "၀၉ ၅၁၁၃၁၈၆",
-          "၀၉ ၆၇၀၀၉၇၁ (ဦးခင်မောင်အေး)",
-          "၀၈၁၂၄၆၂၇(ဖက်စ်)"
-        ],
-        "flag_image": "https://maepaysoh.org/flags/4.KDUPF.jpg",
-        "abbreviation": "KDUP",
-        "headquarter_address": "အမှတ် (ဌ/၁၉/၇၆၄)၊ဟူးမွန်လမ်း၊ မန်ဆူရှမ်းကျောင်းနောက်၊ နယ်မြေ(၁၉)၊ ရပ်ကွက်(၁၂)၊ လားရှိုးမြို့၊ ရှမ်းပြည်နယ်။",
-        "establishment_application_date": null,
-        "policy": "https://uec.gov.mm/show_data_content.php?name=4KokangDemocracyandUnityParty.pdf&type=page_multiple_photo&code=42&sno=2905&token=b2b6109433739da9c972d6bdb6f838511caab8015cacb7bc3b0feef6d4d4a07863a39f8b8ba632b59bc3952cd28471499dd91d028e0e47c3d9bb9449884c5f2d",
-        "registration_approved_date": "၇-၅-၂၀၁၀",
-        "registration_application_date": "၃၀-၄-၂၀၁၀",
-        "name_burmese": "ကိုးကန့်ဒီမိုကရေစီနှင့်ညီညွတ်ရေးပါတီ"
-      },
-      "type": "party",
-      "id": "4"
+    "type": "party",
+    "id": "3"
+  },
+  {
+    "attributes": {
+      "member_count": "ပုဒ်မ ၂၅ အရ လျှောက်ထားခြင်း",
+      "leaders_and_chairmen": [
+        "ဦးထွန်းနိုင်၊ ဦးအောင်ကျော်ဖြိုး(ခ)၊ ဟော်ထိုက်ကျင်း"
+      ],
+      "establishment_approval_date": "ပုဒ်မ ၂၅ အရ လျှောက်ထားခြင်း",
+      "name_english": "Kokang Democracy and Unity Party",
+      "registered_number": 4,
+      "region": "ရှမ်းပြည်နယ်အတွင်း",
+      "seal_image": "https://maepaysoh.org/seals/4.KDUPS.jpg",
+      "contacts": [
+        "၀၉ ၅၀၃၅၉၅၁ (ဦးထွန်းနိုင် ဥက္ကဋ္ဌ)",
+        "၀၁ ၅၅၉၅၃၉ ၀၁ ၅၅၉၅၄၀-၁၃၃ (ဖက်စ်)",
+        "၀၉ ၅၂၆၂၁၉၅ (ဦးလော်ဆင်ကွမ်း)",
+        "၀၈၁ ၂၂၂၂၄ (ဖုန်း)",
+        "၀၉ ၅၁၁၃၁၈၆",
+        "၀၉ ၆၇၀၀၉၇၁ (ဦးခင်မောင်အေး)",
+        "၀၈၁၂၄၆၂၇(ဖက်စ်)"
+      ],
+      "flag_image": "https://maepaysoh.org/flags/4.KDUPF.jpg",
+      "abbreviation": "KDUP",
+      "headquarter_address": "အမှတ် (ဌ/၁၉/၇၆၄)၊ဟူးမွန်လမ်း၊ မန်ဆူရှမ်းကျောင်းနောက်၊ နယ်မြေ(၁၉)၊ ရပ်ကွက်(၁၂)၊ လားရှိုးမြို့၊ ရှမ်းပြည်နယ်။",
+      "establishment_application_date": null,
+      "policy": "https://uec.gov.mm/show_data_content.php?name=4KokangDemocracyandUnityParty.pdf&type=page_multiple_photo&code=42&sno=2905&token=b2b6109433739da9c972d6bdb6f838511caab8015cacb7bc3b0feef6d4d4a07863a39f8b8ba632b59bc3952cd28471499dd91d028e0e47c3d9bb9449884c5f2d",
+      "registration_approved_date": "၇-၅-၂၀၁၀",
+      "registration_application_date": "၃၀-၄-၂၀၁၀",
+      "name_burmese": "ကိုးကန့်ဒီမိုကရေစီနှင့်ညီညွတ်ရေးပါတီ"
     },
-    {
-      "attributes": {
-        "member_count": "ဦးစံလွင် ပါ \n(၁၅)ဦး",
-        "leaders_and_chairmen": [
-          "ဦးခွန်စံလွင်၊ ဦးခွန်သိန်းဖေ(ခ)၊ ဟိုက်ဆော်ဝမ်း(ထွေ/မှူး)"
-        ],
-        "establishment_approval_date": "၂၃-၄-၂၀၁၀",
-        "name_english": "Pa-O National Organisation",
-        "registered_number": 5,
-        "region": "ပြည်ထောင်စုတစ်ဝန်းလုံး",
-        "seal_image": "https://maepaysoh.org/seals/5.PNOS.jpg",
-        "contacts": [
-          "၀၉၄၂၈၃၁၀၀၄၀(ဦးခွန်စံလွင်)",
-          "၀၉၄၂၈၂၁၈၃၁၄ (ဦးခွန်တင်ထွဋ်)",
-          "၀၈၁ ၂၁၂၄၆၉၁(ဖက်စ်)",
-          "၀၉၃၆၃၅၂၃၅၅ (ရုံးချုပ်)",
-          "၀၉ ၂၅၀၃၄၃၁၄၅ (ဦးစောခွန်ကျော်ဝင်း)",
-          "၀၉၂၅၃၃၃၆၅၀၂ (ခွန်ကျော်အေး)"
-        ],
-        "flag_image": "https://maepaysoh.org/flags/5.PNOF.jpg",
-        "abbreviation": "PNO",
-        "headquarter_address": "အမှတ်(၁၈)၊ အနောက်မြို့ပတ်လမ်း၊ စျေးပိုင်းရပ်၊ တောင်ကြီးမြို့၊ ရှမ်းပြည်နယ်။",
-        "establishment_application_date": null,
-        "policy": "https://uec.gov.mm/show_data_content.php?name=5_PNO.pdf&type=page_multiple_photo&code=43&sno=789&token=65640e0d848a6b5fce88d86e936a0299650ddc1dc3bb76b390589bf969cca1ada453aa50ffb3308e2abff85694955cbe56daaf74698beec823ee4a407b9188d6",
-        "registration_approved_date": "၁၃-၅-၂၀၁၀",
-        "registration_application_date": "၆-၅-၂၀၁၀",
-        "name_burmese": "ပအိုဝ်းအမျိုးသားအဖွဲ့ချုပ် (PNO)"
-      },
-      "type": "party",
-      "id": "5"
+    "type": "party",
+    "id": "4"
+  },
+  {
+    "attributes": {
+      "member_count": "ဦးစံလွင် ပါ (၁၅)ဦး",
+      "leaders_and_chairmen": [
+        "ဦးခွန်စံလွင်၊ ဦးခွန်သိန်းဖေ(ခ)၊ ဟိုက်ဆော်ဝမ်း(ထွေ/မှူး)"
+      ],
+      "establishment_approval_date": "၂၃-၄-၂၀၁၀",
+      "name_english": "Pa-O National Organisation",
+      "registered_number": 5,
+      "region": "ပြည်ထောင်စုတစ်ဝန်းလုံး",
+      "seal_image": "https://maepaysoh.org/seals/5.PNOS.jpg",
+      "contacts": [
+        "၀၉၄၂၈၃၁၀၀၄၀(ဦးခွန်စံလွင်)",
+        "၀၉၄၂၈၂၁၈၃၁၄ (ဦးခွန်တင်ထွဋ်)",
+        "၀၈၁ ၂၁၂၄၆၉၁(ဖက်စ်)",
+        "၀၉၃၆၃၅၂၃၅၅ (ရုံးချုပ်)",
+        "၀၉ ၂၅၀၃၄၃၁၄၅ (ဦးစောခွန်ကျော်ဝင်း)",
+        "၀၉၂၅၃၃၃၆၅၀၂ (ခွန်ကျော်အေး)"
+      ],
+      "flag_image": "https://maepaysoh.org/flags/5.PNOF.jpg",
+      "abbreviation": "PNO",
+      "headquarter_address": "အမှတ်(၁၈)၊ အနောက်မြို့ပတ်လမ်း၊ စျေးပိုင်းရပ်၊ တောင်ကြီးမြို့၊ ရှမ်းပြည်နယ်။",
+      "establishment_application_date": null,
+      "policy": "https://uec.gov.mm/show_data_content.php?name=5_PNO.pdf&type=page_multiple_photo&code=43&sno=789&token=65640e0d848a6b5fce88d86e936a0299650ddc1dc3bb76b390589bf969cca1ada453aa50ffb3308e2abff85694955cbe56daaf74698beec823ee4a407b9188d6",
+      "registration_approved_date": "၁၃-၅-၂၀၁၀",
+      "registration_application_date": "၆-၅-၂၀၁၀",
+      "name_burmese": "ပအိုဝ်းအမျိုးသားအဖွဲ့ချုပ် (PNO)"
     },
-    {
-      "attributes": {
-        "member_count": "ဦးခူးယူဂျင်း ပါ \n(၁၇)ဦး",
-        "leaders_and_chairmen": [
-          "ခွန်းဘီထူး(ခ)လွီးစီငြိမ်း၊ ခွန်းကလေးမင်း၊ (တွင်း/မှူး-၁)"
-        ],
-        "establishment_approval_date": "၄-၅-၂၀၁၀",
-        "name_english": "Kayan National Party",
-        "registered_number": 7,
-        "region": "ပြည်ထောင်စုတစ်ဝန်းလုံး",
-        "seal_image": "https://maepaysoh.org/seals/7.KayanNationalPartyS.jpg",
-        "contacts": [
-          "၀၉ ၄၂၈၃၄၀၆၁၄ (ဦးခွန်ကလေးမင်း) ၀၉၄၂၈၀၀၅၁၂၇",
-          "၀၈၁ ၅၆၀၈၈",
-          "၀၉၇၉၂၅၃၀၅၈၇",
-          "၀၉ ၄၂၈၀၀၅၁၂၇"
-        ],
-        "flag_image": "https://maepaysoh.org/flags/7.KayanNationalPartyF.jpg",
-        "abbreviation": "KNP",
-        "headquarter_address": "အမှတ်(၁၄၆)၊ စျေးလမ်း၊ ညောင်ကုန်း(၃)ရပ်ကွက်၊ ဖယ်ခုံမြို့၊ ရှမ်းပြည်နယ်။",
-        "establishment_application_date": null,
-        "policy": "https://uec.gov.mm/show_data_content.php?name=7KayanNationalPartyNew.pdf&type=page_multiple_photo&code=45&sno=7638&token=402be6c8aa823659095a6628be3130e3436303d29acf1ea79a125be0fd8488da6e7a5dbbb24bb5b8de866a5a11647c423e58680197a1f29c964b284c675c7c85",
-        "registration_approved_date": "၂၀-၅-၂၀၁၀",
-        "registration_application_date": "၁၁-၅-၂၀၁၀",
-        "name_burmese": "ကယန်းအမျိုးသားပါတီ"
-      },
-      "type": "party",
-      "id": "7"
+    "type": "party",
+    "id": "5"
+  },
+  {
+    "attributes": {
+      "member_count": "ဦးခူးယူဂျင်း ပါ (၁၇)ဦး",
+      "leaders_and_chairmen": [
+        "ခွန်းဘီထူး(ခ)လွီးစီငြိမ်း၊ ခွန်းကလေးမင်း၊ (တွင်း/မှူး-၁)"
+      ],
+      "establishment_approval_date": "၄-၅-၂၀၁၀",
+      "name_english": "Kayan National Party",
+      "registered_number": 7,
+      "region": "ပြည်ထောင်စုတစ်ဝန်းလုံး",
+      "seal_image": "https://maepaysoh.org/seals/7.KayanNationalPartyS.jpg",
+      "contacts": [
+        "၀၉ ၄၂၈၃၄၀၆၁၄ (ဦးခွန်ကလေးမင်း) ၀၉၄၂၈၀၀၅၁၂၇",
+        "၀၈၁ ၅၆၀၈၈",
+        "၀၉၇၉၂၅၃၀၅၈၇",
+        "၀၉ ၄၂၈၀၀၅၁၂၇"
+      ],
+      "flag_image": "https://maepaysoh.org/flags/7.KayanNationalPartyF.jpg",
+      "abbreviation": "KNP",
+      "headquarter_address": "အမှတ်(၁၄၆)၊ စျေးလမ်း၊ ညောင်ကုန်း(၃)ရပ်ကွက်၊ ဖယ်ခုံမြို့၊ ရှမ်းပြည်နယ်။",
+      "establishment_application_date": null,
+      "policy": "https://uec.gov.mm/show_data_content.php?name=7KayanNationalPartyNew.pdf&type=page_multiple_photo&code=45&sno=7638&token=402be6c8aa823659095a6628be3130e3436303d29acf1ea79a125be0fd8488da6e7a5dbbb24bb5b8de866a5a11647c423e58680197a1f29c964b284c675c7c85",
+      "registration_approved_date": "၂၀-၅-၂၀၁၀",
+      "registration_application_date": "၁၁-၅-၂၀၁၀",
+      "name_burmese": "ကယန်းအမျိုးသားပါတီ"
     },
-    {
-      "attributes": {
-        "member_count": "ဦးအိုက်မုန်း ပါ \n(၁၅) ဦး",
-        "leaders_and_chairmen": [
-          "ဦးအိုက်မုန်း၊ ဦးထွန်းကျော် (ထွေ/မှူး)"
-        ],
-        "establishment_approval_date": "၂၃-၄-၂၀၁၀",
-        "name_english": "Ta-Arng (Palaung) National Party",
-        "registered_number": 12,
-        "region": "ပြည်ထောင်စုတစ်ဝန်းလုံး",
-        "seal_image": "https://maepaysoh.org/seals/10.TNPS.jpg",
-        "contacts": [
-          "၀၉၄၄၄၂၀၆၇၈၇(ဦးညွန့်မောင်)",
-          "၀၉၂၀၀၃၅၄၂",
-          "၀၉ ၆၇၁၂၀၅၁(ဦးအိုက်မုန်း)",
-          "၀၉ ၄၇၃၁၃၄၇၅ (ဦးထွန်းကျော်)",
-          "၀၉၂၀၀၃၅၄၁(ဦးမိုင်းအုဏ်းခိုင်)",
-          "၀၈၂ ၈၉၁၇၅",
-          "၀၈၂ ၈၉၀၅၂",
-          "၀၉၄၃၁၄၆၂၅၀"
-        ],
-        "flag_image": "https://maepaysoh.org/flags/10.TNPF.jpg",
-        "abbreviation": "TPNP",
-        "headquarter_address": "အမှတ်(က/၁၁၀)၊ ဗိုလ်ချုပ်အောင်ဆန်းလမ်း၊ မင်္ဂလာရပ်၊ နမ့်ဆန်မြို့၊ ရှမ်းပြည်နယ်။",
-        "establishment_application_date": null,
-        "policy": "https://uec.gov.mm/show_data_content.php?name=11Ta-ArngPalaungNationalParty.pdf&type=page_multiple_photo&code=49&sno=1186&token=74e690eb8448f6e073950125480206eb0c6d56c3af4be4ce913033065d71db130114a872b20c02490ea6047e655e086bc54855f87ff1b743b8952ace143d3aae",
-        "registration_approved_date": "၂၄-၅-၂၀၁၀",
-        "registration_application_date": "၁၄-၅-၂၀၁၀",
-        "name_burmese": "တအာင်း(ပလောင်)အမျိုးသားပါတီ"
-      },
-      "type": "party",
-      "id": "12"
+    "type": "party",
+    "id": "7"
+  },
+  {
+    "attributes": {
+      "member_count": "ဦးအိုက်မုန်း ပါ (၁၅) ဦး",
+      "leaders_and_chairmen": [
+        "ဦးအိုက်မုန်း၊ ဦးထွန်းကျော် (ထွေ/မှူး)"
+      ],
+      "establishment_approval_date": "၂၃-၄-၂၀၁၀",
+      "name_english": "Ta-Arng (Palaung) National Party",
+      "registered_number": 12,
+      "region": "ပြည်ထောင်စုတစ်ဝန်းလုံး",
+      "seal_image": "https://maepaysoh.org/seals/10.TNPS.jpg",
+      "contacts": [
+        "၀၉၄၄၄၂၀၆၇၈၇(ဦးညွန့်မောင်)",
+        "၀၉၂၀၀၃၅၄၂",
+        "၀၉ ၆၇၁၂၀၅၁(ဦးအိုက်မုန်း)",
+        "၀၉ ၄၇၃၁၃၄၇၅ (ဦးထွန်းကျော်)",
+        "၀၉၂၀၀၃၅၄၁(ဦးမိုင်းအုဏ်းခိုင်)",
+        "၀၈၂ ၈၉၁၇၅",
+        "၀၈၂ ၈၉၀၅၂",
+        "၀၉၄၃၁၄၆၂၅၀"
+      ],
+      "flag_image": "https://maepaysoh.org/flags/10.TNPF.jpg",
+      "abbreviation": "TPNP",
+      "headquarter_address": "အမှတ်(က/၁၁၀)၊ ဗိုလ်ချုပ်အောင်ဆန်းလမ်း၊ မင်္ဂလာရပ်၊ နမ့်ဆန်မြို့၊ ရှမ်းပြည်နယ်။",
+      "establishment_application_date": null,
+      "policy": "https://uec.gov.mm/show_data_content.php?name=11Ta-ArngPalaungNationalParty.pdf&type=page_multiple_photo&code=49&sno=1186&token=74e690eb8448f6e073950125480206eb0c6d56c3af4be4ce913033065d71db130114a872b20c02490ea6047e655e086bc54855f87ff1b743b8952ace143d3aae",
+      "registration_approved_date": "၂၄-၅-၂၀၁၀",
+      "registration_application_date": "၁၄-၅-၂၀၁၀",
+      "name_burmese": "တအာင်း(ပလောင်)အမျိုးသားပါတီ"
     },
-    {
-      "attributes": {
-        "member_count": "ဦးစိုင်းအိုက်ပေါင်း ပါ (၁၅) ဦး",
-        "leaders_and_chairmen": [
-          "ဦးစိုင်းအိုက်ပေါင်း၊ ဦးစိုင်းဘိုးအောင် ၊ (ထွေ/မှူး)"
-        ],
-        "establishment_approval_date": "၃-၅-၂၀၁၀",
-        "name_english": "Shan Nationalities Democratic Party",
-        "registered_number": 15,
-        "region": "ပြည်ထောင်စုတစ်ဝန်းလုံး",
-        "seal_image": "https://maepaysoh.org/seals/12.SNDS.jpg",
-        "contacts": [
-          "၀၉ ၅၁၈၆၉၇၄(ဦးစိုင်းအောင်မြင့်ခိုင်)",
-          "၀၉၅၁၅၉၉၉၈ (ဦးစိုင်းအိုက်ပေါင်း)",
-          "၀၈၁ ၂၀၂၀၆၄",
-          "၀၉ ၇၃၀၄၆၂၀၆ (ဦးစိုင်းလှကျော်)"
-        ],
-        "flag_image": "https://maepaysoh.org/flags/12.SNDS.jpg",
-        "abbreviation": "SNDP",
-        "headquarter_address": "တောင်ကြီး-ဟိုပုံးအထွက်လမ်း၊ (၄)မိုင်၊ တောင်ကြီးမြို့၊ ရှမ်းပြည်နယ်။",
-        "establishment_application_date": "",
-        "policy": "https://uec.gov.mm/show_data_content.php?name=14ShanNationalitiesDemocraticParty.pdf&type=page_multiple_photo&code=52&sno=8032&token=2ac0670d63532f9602c42b5a62e5099f207233049dcc1007ae48886adf291a2015a79e128f7b09fb2a207d5a9012c27df015c343b45d379b910580abc150c817",
-        "registration_approved_date": "၂၆-၅-၂၀၁၀",
-        "registration_application_date": "၁၈-၅-၂၀၁၀",
-        "name_burmese": "ရှမ်းတိုင်းရင်းသားများဒီမိုကရက်တစ်ပါတီ"
-      },
-      "type": "party",
-      "id": "15"
+    "type": "party",
+    "id": "12"
+  },
+  {
+    "attributes": {
+      "member_count": "ဦးစိုင်းအိုက်ပေါင်း ပါ (၁၅) ဦး",
+      "leaders_and_chairmen": [
+        "ဦးစိုင်းအိုက်ပေါင်း၊ ဦးစိုင်းဘိုးအောင် ၊ (ထွေ/မှူး)"
+      ],
+      "establishment_approval_date": "၃-၅-၂၀၁၀",
+      "name_english": "Shan Nationalities Democratic Party",
+      "registered_number": 15,
+      "region": "ပြည်ထောင်စုတစ်ဝန်းလုံး",
+      "seal_image": "https://maepaysoh.org/seals/12.SNDS.jpg",
+      "contacts": [
+        "၀၉ ၅၁၈၆၉၇၄(ဦးစိုင်းအောင်မြင့်ခိုင်)",
+        "၀၉၅၁၅၉၉၉၈ (ဦးစိုင်းအိုက်ပေါင်း)",
+        "၀၈၁ ၂၀၂၀၆၄",
+        "၀၉ ၇၃၀၄၆၂၀၆ (ဦးစိုင်းလှကျော်)"
+      ],
+      "flag_image": "https://maepaysoh.org/flags/12.SNDS.jpg",
+      "abbreviation": "SNDP",
+      "headquarter_address": "တောင်ကြီး-ဟိုပုံးအထွက်လမ်း၊ (၄)မိုင်၊ တောင်ကြီးမြို့၊ ရှမ်းပြည်နယ်။",
+      "establishment_application_date": "",
+      "policy": "https://uec.gov.mm/show_data_content.php?name=14ShanNationalitiesDemocraticParty.pdf&type=page_multiple_photo&code=52&sno=8032&token=2ac0670d63532f9602c42b5a62e5099f207233049dcc1007ae48886adf291a2015a79e128f7b09fb2a207d5a9012c27df015c343b45d379b910580abc150c817",
+      "registration_approved_date": "၂၆-၅-၂၀၁၀",
+      "registration_application_date": "၁၈-၅-၂၀၁၀",
+      "name_burmese": "ရှမ်းတိုင်းရင်းသားများဒီမိုကရက်တစ်ပါတီ"
     },
-    {
-      "attributes": {
-        "member_count": "ဦးလှမြင့်၊ ဦးဘိုမောင်း ပါ \n(၁၇) ဦး",
-        "leaders_and_chairmen": [
-          "ဦးကျော်မြင့်၊ ဒေါ်သီတာဇင်၊ (တွဲ-တွင်း/မှူး)"
-        ],
-        "establishment_approval_date": "၆-၅-၂၀၁၀",
-        "name_english": "United Democratic Party",
-        "registered_number": 16,
-        "region": "ပြည်ထောင်စုတစ်ဝန်းလုံး",
-        "seal_image": "https://maepaysoh.org/seals/13.UDPS.jpg",
-        "contacts": [
-          "၀၉ ၂၅၉၅၆၀၃၅၀(ဦးကြင်ဝမ်း)",
-          "၀၆၇၅၀၀၂၅၃",
-          "၀၆၇၅၀၀၂၃၆",
-          "၀၉ ၂၅၃၇၅၀၉၂၅",
-          "၀၉၂၅၀၇၉၉၄၁၂"
-        ],
-        "flag_image": "https://maepaysoh.org/flags/13.UDPF.jpg",
-        "abbreviation": "UDP",
-        "headquarter_address": "ကွင်းအမှတ်(၁၅၂၂)၊ လင်းနို့ဝင်းကွင်း၊ ဦးပိုင်အမှတ်(၂/၁၊ ယာမြေ)၊ ဇီးကုန်းကျေးရွာအုပ်စု၊ ပုဗ္ဗသီရိမြို့နယ်၊ ဥတ္တရသီရိခရိုင်၊ နေပြည်တော်။",
-        "establishment_application_date": null,
-        "policy": "https://uec.gov.mm/show_data_content.php?name=15UnitedDemocraticPartyUDP.pdf&type=page_multiple_photo&code=53&sno=5793&token=45a324c1367831e98226cd2093c3b81e17842f846d8427e0575e33850c5186e82f6db09b99db21180d7390d040a3888b8ff64a22166628f7b238f9e3f1dd5f14",
-        "registration_approved_date": "၂၆-၅-၂၀၁၀",
-        "registration_application_date": "၁၇-၅-၂၀၁၀",
-        "name_burmese": "ညီညွတ်သောဒီမိုကရက်တစ်ပါတီ (UDP)"
-      },
-      "type": "party",
-      "id": "16"
+    "type": "party",
+    "id": "15"
+  },
+  {
+    "attributes": {
+      "member_count": "ဦးလှမြင့်၊ ဦးဘိုမောင်း ပါ (၁၇) ဦး",
+      "leaders_and_chairmen": [
+        "ဦးကျော်မြင့်၊ ဒေါ်သီတာဇင်၊ (တွဲ-တွင်း/မှူး)"
+      ],
+      "establishment_approval_date": "၆-၅-၂၀၁၀",
+      "name_english": "United Democratic Party",
+      "registered_number": 16,
+      "region": "ပြည်ထောင်စုတစ်ဝန်းလုံး",
+      "seal_image": "https://maepaysoh.org/seals/13.UDPS.jpg",
+      "contacts": [
+        "၀၉ ၂၅၉၅၆၀၃၅၀(ဦးကြင်ဝမ်း)",
+        "၀၆၇၅၀၀၂၅၃",
+        "၀၆၇၅၀၀၂၃၆",
+        "၀၉ ၂၅၃၇၅၀၉၂၅",
+        "၀၉၂၅၀၇၉၉၄၁၂"
+      ],
+      "flag_image": "https://maepaysoh.org/flags/13.UDPF.jpg",
+      "abbreviation": "UDP",
+      "headquarter_address": "ကွင်းအမှတ်(၁၅၂၂)၊ လင်းနို့ဝင်းကွင်း၊ ဦးပိုင်အမှတ်(၂/၁၊ ယာမြေ)၊ ဇီးကုန်းကျေးရွာအုပ်စု၊ ပုဗ္ဗသီရိမြို့နယ်၊ ဥတ္တရသီရိခရိုင်၊ နေပြည်တော်။",
+      "establishment_application_date": null,
+      "policy": "https://uec.gov.mm/show_data_content.php?name=15UnitedDemocraticPartyUDP.pdf&type=page_multiple_photo&code=53&sno=5793&token=45a324c1367831e98226cd2093c3b81e17842f846d8427e0575e33850c5186e82f6db09b99db21180d7390d040a3888b8ff64a22166628f7b238f9e3f1dd5f14",
+      "registration_approved_date": "၂၆-၅-၂၀၁၀",
+      "registration_application_date": "၁၇-၅-၂၀၁၀",
+      "name_burmese": "ညီညွတ်သောဒီမိုကရက်တစ်ပါတီ (UDP)"
     },
-    {
-      "attributes": {
-        "member_count": "ဦးနေမျိုးဝေ ပါ \n(၁၇) ဦး",
-        "leaders_and_chairmen": [
-          "ဒေါ်စန္ဒာဦး၊ ဒေါ်ဝင့်ဝါဌေး (ထွေ/မှူး)၊"
-        ],
-        "establishment_approval_date": "၂၉-၄-၂၀၁၀",
-        "name_english": "Peace and Diversity Party",
-        "registered_number": 25,
-        "region": "ပြည်ထောင်စုတစ်ဝန်းလုံး",
-        "seal_image": "https://maepaysoh.org/seals/20.DiversityPPS.jpg",
-        "contacts": [
-          "၀၉-၂၅၂၄၇၈၀၀၈",
-          "၀၉-၄၃၁၀၁၀၀၁",
-          "၀၉-၇၈၀၁၅၆၂၇၃",
-          "၀၉-၄၂၂၅၃၆၆၄၁"
-        ],
-        "flag_image": "https://maepaysoh.org/flags/20.DiversityPPF.jpg",
-        "abbreviation": "PDP",
-        "headquarter_address": "အမှတ် (၂/ ၂/၂၃၂)၊ မဟော်ဂနီလမ်း၊ ထောက်ကြန့်တိုးချဲ့ရပ်ကွက်၊ မင်္ဂလာဒုံမြို့နယ်၊ ရန်ကုန်တိုင်းဒေသကြီး။",
-        "establishment_application_date": null,
-        "policy": "https://uec.gov.mm/show_data_content.php?name=23PeaceforDiversityPartyP.D.P.pdf&type=page_multiple_photo&code=66&sno=6920&token=c3572d94139ccf8cb51b9ab56fdcd45122b76ea3281b7d7190d5042f42fd49801ca57e8458f7b6f522d359d40c23f6c0f4b660faf2e122e1d0becd00e93aa4ba",
-        "registration_approved_date": "၁-၆-၂၀၁၀",
-        "registration_application_date": "၂၄-၅-၂၀၁၀",
-        "name_burmese": "မတူကွဲပြားခြင်းနှင့်ငြိမ်းချမ်းရေးပါတီ"
-      },
-      "type": "party",
-      "id": "25"
+    "type": "party",
+    "id": "16"
+  },
+  {
+    "attributes": {
+      "member_count": "ဦးနေမျိုးဝေ ပါ (၁၇) ဦး",
+      "leaders_and_chairmen": [
+        "ဒေါ်စန္ဒာဦး၊ ဒေါ်ဝင့်ဝါဌေး (ထွေ/မှူး)၊"
+      ],
+      "establishment_approval_date": "၂၉-၄-၂၀၁၀",
+      "name_english": "Peace and Diversity Party",
+      "registered_number": 25,
+      "region": "ပြည်ထောင်စုတစ်ဝန်းလုံး",
+      "seal_image": "https://maepaysoh.org/seals/20.DiversityPPS.jpg",
+      "contacts": [
+        "၀၉-၂၅၂၄၇၈၀၀၈",
+        "၀၉-၄၃၁၀၁၀၀၁",
+        "၀၉-၇၈၀၁၅၆၂၇၃",
+        "၀၉-၄၂၂၅၃၆၆၄၁"
+      ],
+      "flag_image": "https://maepaysoh.org/flags/20.DiversityPPF.jpg",
+      "abbreviation": "PDP",
+      "headquarter_address": "အမှတ် (၂/ ၂/၂၃၂)၊ မဟော်ဂနီလမ်း၊ ထောက်ကြန့်တိုးချဲ့ရပ်ကွက်၊ မင်္ဂလာဒုံမြို့နယ်၊ ရန်ကုန်တိုင်းဒေသကြီး။",
+      "establishment_application_date": null,
+      "policy": "https://uec.gov.mm/show_data_content.php?name=23PeaceforDiversityPartyP.D.P.pdf&type=page_multiple_photo&code=66&sno=6920&token=c3572d94139ccf8cb51b9ab56fdcd45122b76ea3281b7d7190d5042f42fd49801ca57e8458f7b6f522d359d40c23f6c0f4b660faf2e122e1d0becd00e93aa4ba",
+      "registration_approved_date": "၁-၆-၂၀၁၀",
+      "registration_application_date": "၂၄-၅-၂၀၁၀",
+      "name_burmese": "မတူကွဲပြားခြင်းနှင့်ငြိမ်းချမ်းရေးပါတီ"
     },
-    {
-      "attributes": {
-        "member_count": "ဦးအောင်ကြည်ဝင်း ပါ \n(၁၅)ဦး",
-        "leaders_and_chairmen": [
-          "ဦးဝင်းမြင့်၊ ဦးကင်းညို (ထွေ/မှူး)"
-        ],
-        "establishment_approval_date": "၄-၅-၂၀၁၀",
-        "name_english": "Inn National Development Party",
-        "registered_number": 27,
-        "region": "ရှမ်းပြည်နယ်အတွင်း",
-        "seal_image": "https://maepaysoh.org/seals/21.INDPS.jpg",
-        "contacts": [
-          "၀၈၁-၂၀၉၅၉၉",
-          "",
-          "၀၉-၄၂၈၃၁၀၀၁၁ (ဦးဝင်းမြင့်)"
-        ],
-        "flag_image": "https://maepaysoh.org/flags/21.INDPF.jpg",
-        "abbreviation": "INDP",
-        "headquarter_address": "အမှတ် (၂) မင်္ဂလာရပ်၊ လမ်းမတော်လမ်း၊ ညောင်ရွှေမြို့နယ်၊ ရှမ်းပြည်နယ်။",
-        "establishment_application_date": null,
-        "policy": "https://uec.gov.mm/show_data_content.php?name=25InnNationalDevelopmentParty.pdf&type=page_multiple_photo&code=68&sno=6670&token=b2e7b63d278b6991a9a7d722b273252f148e0c3f0dd910b3408980bc119dda0e4e60f9df5d49f67c81f7ecaace4dfbe4b4e3d75d2eed375350d5cc808a1b6694",
-        "registration_approved_date": "၁-၆-၂၀၁၀",
-        "registration_application_date": "၂၄-၅-၂၀၁၀",
-        "name_burmese": "အင်းအမျိုးသားဖွံ့ဖြိုးတိုးတက်ရေးပါတီ"
-      },
-      "type": "party",
-      "id": "27"
+    "type": "party",
+    "id": "25"
+  },
+  {
+    "attributes": {
+      "member_count": "ဦးအောင်ကြည်ဝင်း ပါ (၁၅)ဦး",
+      "leaders_and_chairmen": [
+        "ဦးဝင်းမြင့်၊ ဦးကင်းညို (ထွေ/မှူး)"
+      ],
+      "establishment_approval_date": "၄-၅-၂၀၁၀",
+      "name_english": "Inn National Development Party",
+      "registered_number": 27,
+      "region": "ရှမ်းပြည်နယ်အတွင်း",
+      "seal_image": "https://maepaysoh.org/seals/21.INDPS.jpg",
+      "contacts": [
+        "၀၈၁-၂၀၉၅၉၉",
+        "",
+        "၀၉-၄၂၈၃၁၀၀၁၁ (ဦးဝင်းမြင့်)"
+      ],
+      "flag_image": "https://maepaysoh.org/flags/21.INDPF.jpg",
+      "abbreviation": "INDP",
+      "headquarter_address": "အမှတ် (၂) မင်္ဂလာရပ်၊ လမ်းမတော်လမ်း၊ ညောင်ရွှေမြို့နယ်၊ ရှမ်းပြည်နယ်။",
+      "establishment_application_date": null,
+      "policy": "https://uec.gov.mm/show_data_content.php?name=25InnNationalDevelopmentParty.pdf&type=page_multiple_photo&code=68&sno=6670&token=b2e7b63d278b6991a9a7d722b273252f148e0c3f0dd910b3408980bc119dda0e4e60f9df5d49f67c81f7ecaace4dfbe4b4e3d75d2eed375350d5cc808a1b6694",
+      "registration_approved_date": "၁-၆-၂၀၁၀",
+      "registration_application_date": "၂၄-၅-၂၀၁၀",
+      "name_burmese": "အင်းအမျိုးသားဖွံ့ဖြိုးတိုးတက်ရေးပါတီ"
     },
-    {
-      "attributes": {
-        "member_count": "ဦးသိန်းစိန် ပါ\n(၂၇) ဦး",
-        "leaders_and_chairmen": [
-          "ဦးသန်းဌေး၊ ဦးသက်နိုင်ဝင်း (ထွေ/မှူး)"
-        ],
-        "establishment_approval_date": "၄-၅-၂၀၁၀",
-        "name_english": "Union Solidarity and Development Party",
-        "registered_number": 32,
-        "region": "ပြည်ထောင်စုတစ်ဝန်းလုံး",
-        "seal_image": "https://maepaysoh.org/seals/24.USDPS.jpg",
-        "contacts": [
-          "၀၆၇-၄၁၉၂၄၄",
-          "၀၉-၅၁၆၃၂၈၅ (ဒေါက်တာနန္ဒာလှမြင့်)",
-          "၀၆၇-၄၁၉၂၅၇",
-          "၀၆၇-၄၁၉၂၇၄ (ဖက်စ်)"
-        ],
-        "flag_image": "https://maepaysoh.org/flags/24.USDPF.jpg",
-        "abbreviation": "USDP",
-        "headquarter_address": "အမှတ် (၅)၊ ရာဇသင်္ဂဟလမ်းနှင့် 'စီ'လမ်းထောင့်၊ ဒက္ခိဏသီရိမြို့နယ်၊ နေပြည်တော်။",
-        "establishment_application_date": null,
-        "policy": "https://uec.gov.mm/show_data_content.php?name=72_USDP.pdf&type=page_multiple_photo&code=72&sno=3013&token=43516736a663dc92558123c160dff62d42d7e1f2e476ab58a8654ee5ea30e2e13acf15172242b2dd3cdf6bb25dfcd0c620385e56a03a5eb32b7bfcd35e49fc8e",
-        "registration_approved_date": "၈-၆-၂၀၁၀",
-        "registration_application_date": "၁-၆-၂၀၁၀",
-        "name_burmese": "ပြည်ထောင်စုကြံ့ခိုင်ရေးနှင့်ဖွံ့ဖြိုးရေးပါတီ"
-      },
-      "type": "party",
-      "id": "32"
+    "type": "party",
+    "id": "27"
+  },
+  {
+    "attributes": {
+      "member_count": "ဦးသိန်းစိန် ပါ(၂၇) ဦး",
+      "leaders_and_chairmen": [
+        "ဦးသန်းဌေး၊ ဦးသက်နိုင်ဝင်း (ထွေ/မှူး)"
+      ],
+      "establishment_approval_date": "၄-၅-၂၀၁၀",
+      "name_english": "Union Solidarity and Development Party",
+      "registered_number": 32,
+      "region": "ပြည်ထောင်စုတစ်ဝန်းလုံး",
+      "seal_image": "https://maepaysoh.org/seals/24.USDPS.jpg",
+      "contacts": [
+        "၀၆၇-၄၁၉၂၄၄",
+        "၀၉-၅၁၆၃၂၈၅ (ဒေါက်တာနန္ဒာလှမြင့်)",
+        "၀၆၇-၄၁၉၂၅၇",
+        "၀၆၇-၄၁၉၂၇၄ (ဖက်စ်)"
+      ],
+      "flag_image": "https://maepaysoh.org/flags/24.USDPF.jpg",
+      "abbreviation": "USDP",
+      "headquarter_address": "အမှတ် (၅)၊ ရာဇသင်္ဂဟလမ်းနှင့် 'စီ'လမ်းထောင့်၊ ဒက္ခိဏသီရိမြို့နယ်၊ နေပြည်တော်။",
+      "establishment_application_date": null,
+      "policy": "https://uec.gov.mm/show_data_content.php?name=72_USDP.pdf&type=page_multiple_photo&code=72&sno=3013&token=43516736a663dc92558123c160dff62d42d7e1f2e476ab58a8654ee5ea30e2e13acf15172242b2dd3cdf6bb25dfcd0c620385e56a03a5eb32b7bfcd35e49fc8e",
+      "registration_approved_date": "၈-၆-၂၀၁၀",
+      "registration_application_date": "၁-၆-၂၀၁၀",
+      "name_burmese": "ပြည်ထောင်စုကြံ့ခိုင်ရေးနှင့်ဖွံ့ဖြိုးရေးပါတီ"
     },
-    {
-      "attributes": {
-        "member_count": "ဒေါက်တာသန်းငြိမ်း ပါ \n(၁၉)ဦး",
-        "leaders_and_chairmen": [
-          "ဦးခင်မောင်ဆွေ၊ ဒေါက်တာဝင်းနိုင်၊ (ထွေ/မှူး)"
-        ],
-        "establishment_approval_date": "၁၄-၆-၂၀၁၀",
-        "name_english": "National Democratic Force Party",
-        "registered_number": 38,
-        "region": "ပြည်ထောင်စုတစ်ဝန်းလုံး",
-        "seal_image": "https://maepaysoh.org/seals/28.NATIONALDEMOCRATICFORCEPARTYS.jpg",
-        "contacts": [
-          "၀၉-၄၅၀၀၅၇၀၈၈",
-          "၀၉-၂၅၂၃၆၀၅၄၅",
-          "၀၉-၄၅၀၀၁၅၆၉၁",
-          "၀၉-၅၀၅၉၆၄၀ (ဥက္ကဋ္ဌ)",
-          "၀၉-၅၁၃၇၃၇၃ (ဦးကြည်သန်း",
-          "တွင်း/မှူး-၁) ၀၉-၂၂၂၈၃၄၇ (တွင်း/မှူး-၂)"
-        ],
-        "flag_image": "https://maepaysoh.org/flags/28.NATIONALDEMOCRATICFORCEPARTYF.jpg",
-        "abbreviation": "NDF",
-        "headquarter_address": "အမှတ် (၄၇)၊ ပထမထပ်၊ အနောက်မြင်းပြိုင်ကွင်းလမ်း၊ ဗဟန်းမြို့နယ်၊ ရန်ကုန်တိုင်းဒေသကြီး။",
-        "establishment_application_date": null,
-        "policy": "https://uec.gov.mm/show_data_content.php?name=34NationalDemocraticForceNDF.pdf&type=page_multiple_photo&code=76&sno=5785&token=de59827260ac64c17ab945b8010d824fadb944d42af93dda83af1ad1262d4abb87b1f598d1719ac0bebe0a099a22d762bba310c6d642ab553b53fd7af933701e",
-        "registration_approved_date": "၉-၇-၂၀၁၀",
-        "registration_application_date": "၂၄-၆-၂၀၁၀",
-        "name_burmese": "အမျိုးသားဒီမိုကရေစီအင်အားစုပါတီ"
-      },
-      "type": "party",
-      "id": "38"
+    "type": "party",
+    "id": "32"
+  },
+  {
+    "attributes": {
+      "member_count": "ဒေါက်တာသန်းငြိမ်း ပါ (၁၉)ဦး",
+      "leaders_and_chairmen": [
+        "ဦးခင်မောင်ဆွေ၊ ဒေါက်တာဝင်းနိုင်၊ (ထွေ/မှူး)"
+      ],
+      "establishment_approval_date": "၁၄-၆-၂၀၁၀",
+      "name_english": "National Democratic Force Party",
+      "registered_number": 38,
+      "region": "ပြည်ထောင်စုတစ်ဝန်းလုံး",
+      "seal_image": "https://maepaysoh.org/seals/28.NATIONALDEMOCRATICFORCEPARTYS.jpg",
+      "contacts": [
+        "၀၉-၄၅၀၀၅၇၀၈၈",
+        "၀၉-၂၅၂၃၆၀၅၄၅",
+        "၀၉-၄၅၀၀၁၅၆၉၁",
+        "၀၉-၅၀၅၉၆၄၀ (ဥက္ကဋ္ဌ)",
+        "၀၉-၅၁၃၇၃၇၃ (ဦးကြည်သန်း",
+        "တွင်း/မှူး-၁) ၀၉-၂၂၂၈၃၄၇ (တွင်း/မှူး-၂)"
+      ],
+      "flag_image": "https://maepaysoh.org/flags/28.NATIONALDEMOCRATICFORCEPARTYF.jpg",
+      "abbreviation": "NDF",
+      "headquarter_address": "အမှတ် (၄၇)၊ ပထမထပ်၊ အနောက်မြင်းပြိုင်ကွင်းလမ်း၊ ဗဟန်းမြို့နယ်၊ ရန်ကုန်တိုင်းဒေသကြီး။",
+      "establishment_application_date": null,
+      "policy": "https://uec.gov.mm/show_data_content.php?name=34NationalDemocraticForceNDF.pdf&type=page_multiple_photo&code=76&sno=5785&token=de59827260ac64c17ab945b8010d824fadb944d42af93dda83af1ad1262d4abb87b1f598d1719ac0bebe0a099a22d762bba310c6d642ab553b53fd7af933701e",
+      "registration_approved_date": "၉-၇-၂၀၁၀",
+      "registration_application_date": "၂၄-၆-၂၀၁၀",
+      "name_burmese": "အမျိုးသားဒီမိုကရေစီအင်အားစုပါတီ"
     },
-    {
-      "attributes": {
-        "member_count": "ဦးခွန်ထွန်းဦး ပါ\n(၁၅) ဦး",
-        "leaders_and_chairmen": [
-          "ဦးခွန်ထွန်းဦး၊ စိုင်းလ(ခ)စိုင်းလိတ်၊ (ထွေ/မှူး)"
-        ],
-        "establishment_approval_date": "၈-၅-၂၀၁၂",
-        "name_english": "Shan Nationalities League for Democracy",
-        "registered_number": 56,
-        "region": "ပြည်ထောင်စုတစ်ဝန်းလုံး",
-        "seal_image": "https://maepaysoh.org/seals/38.SNLDS.jpg",
-        "contacts": [
-          "၀၉-၅၁၀၆၈၂၀",
-          "၀၉−၄၂၀၇၂၅၅၀၁(စိုင်းသီဟကျော်)",
-          "၀၉−၇၃၂၂၅၅၆၄ (ဦးခွန်ထွန်းဦး)",
-          "၀၉−၇၃၂၄၁၅၈၇ (ဦးစိုင်းညွန့်လွင်)",
-          "၀၉−၅၀၆၅၈၉၈(ဦးစိုင်းလိတ်)",
-          "၀၉−၇၃၀၈၁၂၁၁(ဦးစိုင်းစောအောင်)"
-        ],
-        "flag_image": "https://maepaysoh.org/flags/38.SNLDF.jpg",
-        "abbreviation": "SNLD",
-        "headquarter_address": "အမှတ် (၁၅၇)၊ ကိုးမိုင်၊ ပြည်လမ်း၊ ရပ်ကွက်(၅)၊ မရမ်းကုန်းမြို့နယ်၊ ရန်ကုန်တိုင်းဒေသကြီး။",
-        "establishment_application_date": null,
-        "policy": "https://uec.gov.mm/show_data_content.php?name=49ShanNationalitiesLeagueforDemocracy.pdf&type=page_multiple_photo&code=90&sno=1861&token=f01fc71adc3d46decc65e964efee50fb7406c3322bfa1dfb0e1bef52462ba0d3d5cfa3b055a447ceed0c76dba0ba9e517700fb95b731b18c1b48a7f9ebb55001",
-        "registration_approved_date": "၁၂-၆-၂၀၁၂",
-        "registration_application_date": "၂၃-၅-၂၀၁၂",
-        "name_burmese": "ရှမ်းတိုင်းရင်းသားများဒီမိုကရေစီအဖွဲ့ချုပ်"
-      },
-      "type": "party",
-      "id": "56"
+    "type": "party",
+    "id": "38"
+  },
+  {
+    "attributes": {
+      "member_count": "ဦးခွန်ထွန်းဦး ပါ(၁၅) ဦး",
+      "leaders_and_chairmen": [
+        "ဦးခွန်ထွန်းဦး၊ စိုင်းလ(ခ)စိုင်းလိတ်၊ (ထွေ/မှူး)"
+      ],
+      "establishment_approval_date": "၈-၅-၂၀၁၂",
+      "name_english": "Shan Nationalities League for Democracy",
+      "registered_number": 56,
+      "region": "ပြည်ထောင်စုတစ်ဝန်းလုံး",
+      "seal_image": "https://maepaysoh.org/seals/38.SNLDS.jpg",
+      "contacts": [
+        "၀၉-၅၁၀၆၈၂၀",
+        "၀၉−၄၂၀၇၂၅၅၀၁(စိုင်းသီဟကျော်)",
+        "၀၉−၇၃၂၂၅၅၆၄ (ဦးခွန်ထွန်းဦး)",
+        "၀၉−၇၃၂၄၁၅၈၇ (ဦးစိုင်းညွန့်လွင်)",
+        "၀၉−၅၀၆၅၈၉၈(ဦးစိုင်းလိတ်)",
+        "၀၉−၇၃၀၈၁၂၁၁(ဦးစိုင်းစောအောင်)"
+      ],
+      "flag_image": "https://maepaysoh.org/flags/38.SNLDF.jpg",
+      "abbreviation": "SNLD",
+      "headquarter_address": "အမှတ် (၁၅၇)၊ ကိုးမိုင်၊ ပြည်လမ်း၊ ရပ်ကွက်(၅)၊ မရမ်းကုန်းမြို့နယ်၊ ရန်ကုန်တိုင်းဒေသကြီး။",
+      "establishment_application_date": null,
+      "policy": "https://uec.gov.mm/show_data_content.php?name=49ShanNationalitiesLeagueforDemocracy.pdf&type=page_multiple_photo&code=90&sno=1861&token=f01fc71adc3d46decc65e964efee50fb7406c3322bfa1dfb0e1bef52462ba0d3d5cfa3b055a447ceed0c76dba0ba9e517700fb95b731b18c1b48a7f9ebb55001",
+      "registration_approved_date": "၁၂-၆-၂၀၁၂",
+      "registration_application_date": "၂၃-၅-၂၀၁၂",
+      "name_burmese": "ရှမ်းတိုင်းရင်းသားများဒီမိုကရေစီအဖွဲ့ချုပ်"
     },
-    {
-      "attributes": {
-        "member_count": "ဦးမြသန်း ပါ\n(၂၇) ဦး",
-        "leaders_and_chairmen": [
-          "ဦးခင်မောင်ချို၊ ဦးကိုကို (ထွေ/မှူး)"
-        ],
-        "establishment_approval_date": "၁-၆-၂၀၁၂",
-        "name_english": "Danu National Democracy Party",
-        "registered_number": 57,
-        "region": "ရှမ်းပြည်နယ်အတွင်း",
-        "seal_image": "https://maepaysoh.org/seals/39.DanuNationalDemocracyPartyS.jpg",
-        "contacts": [
-          "၀၉-၇၉၈၂၈၉၄၄၀ (ဦးအောင်သိန်း)",
-          "၀၉-၄၉၃၅၇၈၈၄",
-          "၀၉−၄၂၈၃၆၈၉၀၈",
-          "၀၉−၄၉၃၅၉၀၀၈ (ဦးမြသန်း)",
-          "၀၉-၄၉၃၅၉၆၅၅ (ဦးကိုကို)",
-          "၀၉-၄၉၂၅၀၂၆၄",
-          "၀၉-၄၉၅၉၇၃၉၈"
-        ],
-        "flag_image": "https://maepaysoh.org/flags/39.DanuNationalDemocracyPartyF.jpg",
-        "abbreviation": null,
-        "headquarter_address": "လူဝင်မှုကြီးကြပ်ရေးနှင့်အမျိုးသားမှတ်ပုံတင်ရေးဦးစီးဌာနရုံးအနီး၊ ဗထူးလမ်း၊ စျေးတန်းရပ်၊ ရွာငံမြို့နယ်၊ ရှမ်းပြည်နယ်။",
-        "establishment_application_date": null,
-        "policy": "https://uec.gov.mm/show_data_content.php?name=50DanuNationalDemocracyParty.pdf&type=page_multiple_photo&code=91&sno=1988&token=c6a8910001e84e14e065ee05abee643875e7d1e014e21053cc74dcca998d6fbc26b8bed5d489b70c23caa090c56ac8aac8aacb54a49ad1f66cee156a78588cb5",
-        "registration_approved_date": "၃-၇-၂၀၁၂",
-        "registration_application_date": "၁၄-၆-၂၀၁၂",
-        "name_burmese": "ဓနုတိုင်းရင်းသားလူမျိုးများဒီမိုကရေစီပါတီ"
-      },
-      "type": "party",
-      "id": "57"
+    "type": "party",
+    "id": "56"
+  },
+  {
+    "attributes": {
+      "member_count": "ဦးမြသန်း ပါ(၂၇) ဦး",
+      "leaders_and_chairmen": [
+        "ဦးခင်မောင်ချို၊ ဦးကိုကို (ထွေ/မှူး)"
+      ],
+      "establishment_approval_date": "၁-၆-၂၀၁၂",
+      "name_english": "Danu National Democracy Party",
+      "registered_number": 57,
+      "region": "ရှမ်းပြည်နယ်အတွင်း",
+      "seal_image": "https://maepaysoh.org/seals/39.DanuNationalDemocracyPartyS.jpg",
+      "contacts": [
+        "၀၉-၇၉၈၂၈၉၄၄၀ (ဦးအောင်သိန်း)",
+        "၀၉-၄၉၃၅၇၈၈၄",
+        "၀၉−၄၂၈၃၆၈၉၀၈",
+        "၀၉−၄၉၃၅၉၀၀၈ (ဦးမြသန်း)",
+        "၀၉-၄၉၃၅၉၆၅၅ (ဦးကိုကို)",
+        "၀၉-၄၉၂၅၀၂၆၄",
+        "၀၉-၄၉၅၉၇၃၉၈"
+      ],
+      "flag_image": "https://maepaysoh.org/flags/39.DanuNationalDemocracyPartyF.jpg",
+      "abbreviation": null,
+      "headquarter_address": "လူဝင်မှုကြီးကြပ်ရေးနှင့်အမျိုးသားမှတ်ပုံတင်ရေးဦးစီးဌာနရုံးအနီး၊ ဗထူးလမ်း၊ စျေးတန်းရပ်၊ ရွာငံမြို့နယ်၊ ရှမ်းပြည်နယ်။",
+      "establishment_application_date": null,
+      "policy": "https://uec.gov.mm/show_data_content.php?name=50DanuNationalDemocracyParty.pdf&type=page_multiple_photo&code=91&sno=1988&token=c6a8910001e84e14e065ee05abee643875e7d1e014e21053cc74dcca998d6fbc26b8bed5d489b70c23caa090c56ac8aac8aacb54a49ad1f66cee156a78588cb5",
+      "registration_approved_date": "၃-၇-၂၀၁၂",
+      "registration_application_date": "၁၄-၆-၂၀၁၂",
+      "name_burmese": "ဓနုတိုင်းရင်းသားလူမျိုးများဒီမိုကရေစီပါတီ"
     },
-    {
-      "attributes": {
-        "member_count": "ဦးအန်တိုနီစူ ပါ\n(၁၇) ဦး",
-        "leaders_and_chairmen": [
-          "ဦးအန်တိုနီစူ၊ ဦးမြင့်ခိုင် (ထွေ/မှူး)"
-        ],
-        "establishment_approval_date": "၁၈-၇-၂၀၁၂",
-        "name_english": "Shan State Kokang Democratic Party",
-        "registered_number": 60,
-        "region": "ရှမ်းပြည်နယ်အတွင်း",
-        "seal_image": "https://maepaysoh.org/seals/41.SSKDPS.jpg",
-        "contacts": [
-          "၀၉-၂၅၆၂၃၈၇၇၁ (ဦးမင်းခိုင်) ၀၉-၄၀၂၆၁၂၈၆၈ (ဦးမိုးထွန်း)",
-          "၀၉-၄၃၁၈၉၄၈၆"
-        ],
-        "flag_image": "https://maepaysoh.org/flags/41.SSKDPF.jpg",
-        "abbreviation": "SSKDP",
-        "headquarter_address": "ကြည်ရှန်လမ်း၊ ရပ်ကွက် (၁)၊ တုံချန်၊ လောက်ကိုင်မြို့၊ ရှမ်းပြည်နယ်။",
-        "establishment_application_date": null,
-        "policy": "https://uec.gov.mm/show_data_content.php?name=_60_ShanStateKokangDemocraticParty%20_New_.pdf&type=page_multiple_photo&code=94&sno=6785&token=c245d8a073c5d334ae945adc10e7cf7bf4034ca5ed0f31f18573efbdc51beebf6a5e5e111f28854c647a8e0c7a39a23c76a7b7463347b23392ea4bce121cfc6f",
-        "registration_approved_date": "၃၁-၈-၂၀၁၂",
-        "registration_application_date": "၁၄-၈-၂၀၁၂",
-        "name_burmese": "ရှမ်းပြည်ကိုးကန့်ဒီမိုကရက်တစ်ပါတီ"
-      },
-      "type": "party",
-      "id": "60"
+    "type": "party",
+    "id": "57"
+  },
+  {
+    "attributes": {
+      "member_count": "ဦးအန်တိုနီစူ ပါ(၁၇) ဦး",
+      "leaders_and_chairmen": [
+        "ဦးအန်တိုနီစူ၊ ဦးမြင့်ခိုင် (ထွေ/မှူး)"
+      ],
+      "establishment_approval_date": "၁၈-၇-၂၀၁၂",
+      "name_english": "Shan State Kokang Democratic Party",
+      "registered_number": 60,
+      "region": "ရှမ်းပြည်နယ်အတွင်း",
+      "seal_image": "https://maepaysoh.org/seals/41.SSKDPS.jpg",
+      "contacts": [
+        "၀၉-၂၅၆၂၃၈၇၇၁ (ဦးမင်းခိုင်) ၀၉-၄၀၂၆၁၂၈၆၈ (ဦးမိုးထွန်း)",
+        "၀၉-၄၃၁၈၉၄၈၆"
+      ],
+      "flag_image": "https://maepaysoh.org/flags/41.SSKDPF.jpg",
+      "abbreviation": "SSKDP",
+      "headquarter_address": "ကြည်ရှန်လမ်း၊ ရပ်ကွက် (၁)၊ တုံချန်၊ လောက်ကိုင်မြို့၊ ရှမ်းပြည်နယ်။",
+      "establishment_application_date": null,
+      "policy": "https://uec.gov.mm/show_data_content.php?name=_60_ShanStateKokangDemocraticParty%20_New_.pdf&type=page_multiple_photo&code=94&sno=6785&token=c245d8a073c5d334ae945adc10e7cf7bf4034ca5ed0f31f18573efbdc51beebf6a5e5e111f28854c647a8e0c7a39a23c76a7b7463347b23392ea4bce121cfc6f",
+      "registration_approved_date": "၃၁-၈-၂၀၁၂",
+      "registration_application_date": "၁၄-၈-၂၀၁၂",
+      "name_burmese": "ရှမ်းပြည်ကိုးကန့်ဒီမိုကရက်တစ်ပါတီ"
     },
-    {
-      "attributes": {
-        "member_count": "ဦးကျော်စွာစိုး ပါ\n(၁၈) ဦး",
-        "leaders_and_chairmen": [
-          "ဦးကျော်စွာစိုး (ခ)၊ ဦးကျော်စွာအောင်၊ ဒေါ်ခင်သန်းဦး (ထွေ/မှူး)"
-        ],
-        "establishment_approval_date": "၂၄-၉-၂၀၁၂",
-        "name_english": "Myanmar Farmers' Development Party",
-        "registered_number": 61,
-        "region": "ပြည်ထောင်စုတစ်ဝန်းလုံး",
-        "seal_image": "https://maepaysoh.org/seals/42.MyanmarFarmers'DevelopmentPartyS.jpg",
-        "contacts": [
-          "၀၉-၅၁၇၇၇၁၄ (ဦးကျော်စွာစိုး)။ ၀၉-၂၅၃၃၄၃၉၅၅ (ဦးမောင်မောင်)",
-          "၀၁-၈၅၅၁၀၅၉",
-          "၀၉-၄၃၁၃၈၆၃၂ (ဒေါ်ခင်သန်းဦး)",
-          "၀၉-၄၀၁၆၂၉၀၃၄ (ဦးဝင်းလှိုင်)"
-        ],
-        "flag_image": "https://maepaysoh.org/flags/42.MyanmarFarmers'DevelopmentPartyF.jpg",
-        "abbreviation": "MFDP",
-        "headquarter_address": "အမှတ် (င/၁၀)၊ မြို့တော် (၂)လမ်း၊ (၁၀)ရပ်ကွက်၊ ဒဂုံမြို့သစ် (အရှေ့ပိုင်း)မြို့နယ်၊ ရန်ကုန်တိုင်းဒေသကြီး။",
-        "establishment_application_date": null,
-        "policy": "https://uec.gov.mm/show_data_content.php?name=_61_%20Myanmar%20Farmers_%20Development%20Party.pdf&type=page_multiple_photo&code=95&sno=8002&token=209677742d15bbd703e9ce2d70104cd67507095b86f5aa5542576ee8c3a04e8181e0b7ed352109e41afc2482fd7847bffe8f36dff4d8c86e274906d1f428404f",
-        "registration_approved_date": "၆-၁၁-၂၀၁၂",
-        "registration_application_date": "၁၁-၁၀-၂၀၁၂",
-        "name_burmese": "မြန်မာနိုင်ငံတောင်သူလယ်သမားဖွံ့ဖြိုးတိုးတက်ရေးပါတီ"
-      },
-      "type": "party",
-      "id": "61"
+    "type": "party",
+    "id": "60"
+  },
+  {
+    "attributes": {
+      "member_count": "ဦးကျော်စွာစိုး ပါ(၁၈) ဦး",
+      "leaders_and_chairmen": [
+        "ဦးကျော်စွာစိုး (ခ)၊ ဦးကျော်စွာအောင်၊ ဒေါ်ခင်သန်းဦး (ထွေ/မှူး)"
+      ],
+      "establishment_approval_date": "၂၄-၉-၂၀၁၂",
+      "name_english": "Myanmar Farmers' Development Party",
+      "registered_number": 61,
+      "region": "ပြည်ထောင်စုတစ်ဝန်းလုံး",
+      "seal_image": "https://maepaysoh.org/seals/42.MyanmarFarmers'DevelopmentPartyS.jpg",
+      "contacts": [
+        "၀၉-၅၁၇၇၇၁၄ (ဦးကျော်စွာစိုး)။ ၀၉-၂၅၃၃၄၃၉၅၅ (ဦးမောင်မောင်)",
+        "၀၁-၈၅၅၁၀၅၉",
+        "၀၉-၄၃၁၃၈၆၃၂ (ဒေါ်ခင်သန်းဦး)",
+        "၀၉-၄၀၁၆၂၉၀၃၄ (ဦးဝင်းလှိုင်)"
+      ],
+      "flag_image": "https://maepaysoh.org/flags/42.MyanmarFarmers'DevelopmentPartyF.jpg",
+      "abbreviation": "MFDP",
+      "headquarter_address": "အမှတ် (င/၁၀)၊ မြို့တော် (၂)လမ်း၊ (၁၀)ရပ်ကွက်၊ ဒဂုံမြို့သစ် (အရှေ့ပိုင်း)မြို့နယ်၊ ရန်ကုန်တိုင်းဒေသကြီး။",
+      "establishment_application_date": null,
+      "policy": "https://uec.gov.mm/show_data_content.php?name=_61_%20Myanmar%20Farmers_%20Development%20Party.pdf&type=page_multiple_photo&code=95&sno=8002&token=209677742d15bbd703e9ce2d70104cd67507095b86f5aa5542576ee8c3a04e8181e0b7ed352109e41afc2482fd7847bffe8f36dff4d8c86e274906d1f428404f",
+      "registration_approved_date": "၆-၁၁-၂၀၁၂",
+      "registration_application_date": "၁၁-၁၀-၂၀၁၂",
+      "name_burmese": "မြန်မာနိုင်ငံတောင်သူလယ်သမားဖွံ့ဖြိုးတိုးတက်ရေးပါတီ"
     },
-    {
-      "attributes": {
-        "member_count": "ဒေါ်စန်းသူဇာ ပါ\n(၁၉) ဦး",
-        "leaders_and_chairmen": [
-          "ဦးဝင်းမြင့်အောင်(ခ)၊ ဦးဝင်းခန့်၊ ဒေါ်စန်းသူဇာ"
-        ],
-        "establishment_approval_date": "၁၇-၉-၂၀၁၃",
-        "name_english": "National Prosperity Party",
-        "registered_number": 66,
-        "region": "ပြည်ထောင်စုတစ်ဝန်းလုံး",
-        "seal_image": "https://maepaysoh.org/seals/45.NationalProsperityPartyS.jpg",
-        "contacts": [
-          "၀၉-၂၅၄၁၀၇၀၅၄ (ဦးကျော်စိန်)",
-          "၀၉-၂၅၀၀၅၀၁၅၅",
-          "၀၉-၇၉၅၅၆၃၀၁၁ (ဦးဝင်းခန့်)",
-          "၀၉-၄၉၃၆၄၂၃၂",
-          "(ဦးဇေယျာဝင်းမြင့်)",
-          "၀၉-၄၂၈၀၃၄၃၆၃",
-          "(ဒေါ်စန်းသူဇာ)",
-          "၀၉-၄၂၅၀၂၃၆၀၂",
-          "(ဦးတင်ဌေးလင်း)",
-          "၀၉-၅၀၀၇၄၇၈",
-          "(ဦးမောင်နု)"
-        ],
-        "flag_image": "https://maepaysoh.org/flags/45.NationalProsperityPartyF.jpg",
-        "abbreviation": "NPP",
-        "headquarter_address": "အမှတ် (၆၄/၄)၊ (၂၄)လမ်း၊ နဝဒေးဥယျာဉ်အိမ်ရာ၊ လှိုင်သာယာမြို့နယ်၊ ရန်ကုန်တိုင်းဒေသကြီး။",
-        "establishment_application_date": null,
-        "policy": "https://uec.gov.mm/show_data_content.php?name=59NationalProsperityParty.pdf&type=page_multiple_photo&code=98&sno=8553&token=07659ebab94bf00a972e81aba2a20309f1d035ea652a7aa75365639acde527eda6ebcdd2b6ef9da9484d48bc87cd028cdababd37963e9f4b8d377dafb2fc7a50",
-        "registration_approved_date": "၄-၁၂-၂၀၁၃",
-        "registration_application_date": "၁၇-၁၀-၂၀၁၃",
-        "name_burmese": "အမျိုးသားတိုးတက်မြင့်မားရေးပါတီ"
-      },
-      "type": "party",
-      "id": "66"
+    "type": "party",
+    "id": "61"
+  },
+  {
+    "attributes": {
+      "member_count": "ဒေါ်စန်းသူဇာ ပါ(၁၉) ဦး",
+      "leaders_and_chairmen": [
+        "ဦးဝင်းမြင့်အောင်(ခ)၊ ဦးဝင်းခန့်၊ ဒေါ်စန်းသူဇာ"
+      ],
+      "establishment_approval_date": "၁၇-၉-၂၀၁၃",
+      "name_english": "National Prosperity Party",
+      "registered_number": 66,
+      "region": "ပြည်ထောင်စုတစ်ဝန်းလုံး",
+      "seal_image": "https://maepaysoh.org/seals/45.NationalProsperityPartyS.jpg",
+      "contacts": [
+        "၀၉-၂၅၄၁၀၇၀၅၄ (ဦးကျော်စိန်)",
+        "၀၉-၂၅၀၀၅၀၁၅၅",
+        "၀၉-၇၉၅၅၆၃၀၁၁ (ဦးဝင်းခန့်)",
+        "၀၉-၄၉၃၆၄၂၃၂",
+        "(ဦးဇေယျာဝင်းမြင့်)",
+        "၀၉-၄၂၈၀၃၄၃၆၃",
+        "(ဒေါ်စန်းသူဇာ)",
+        "၀၉-၄၂၅၀၂၃၆၀၂",
+        "(ဦးတင်ဌေးလင်း)",
+        "၀၉-၅၀၀၇၄၇၈",
+        "(ဦးမောင်နု)"
+      ],
+      "flag_image": "https://maepaysoh.org/flags/45.NationalProsperityPartyF.jpg",
+      "abbreviation": "NPP",
+      "headquarter_address": "အမှတ် (၆၄/၄)၊ (၂၄)လမ်း၊ နဝဒေးဥယျာဉ်အိမ်ရာ၊ လှိုင်သာယာမြို့နယ်၊ ရန်ကုန်တိုင်းဒေသကြီး။",
+      "establishment_application_date": null,
+      "policy": "https://uec.gov.mm/show_data_content.php?name=59NationalProsperityParty.pdf&type=page_multiple_photo&code=98&sno=8553&token=07659ebab94bf00a972e81aba2a20309f1d035ea652a7aa75365639acde527eda6ebcdd2b6ef9da9484d48bc87cd028cdababd37963e9f4b8d377dafb2fc7a50",
+      "registration_approved_date": "၄-၁၂-၂၀၁၃",
+      "registration_application_date": "၁၇-၁၀-၂၀၁၃",
+      "name_burmese": "အမျိုးသားတိုးတက်မြင့်မားရေးပါတီ"
     },
-    {
-      "attributes": {
-        "member_count": "ဦးခန်ဒါးယော် ပါ\n(၁၉) ဦး",
-        "leaders_and_chairmen": [
-          "ဒေါက်တာMကောန်လ၊ ဦးဇယ်ဇောင်း (ထွေ/မှူး)"
-        ],
-        "establishment_approval_date": "၂၂-၁၀-၂၀၁၃",
-        "name_english": "Kachin National Congress (KNC)",
-        "registered_number": 68,
-        "region": "ပြည်ထောင်စုတစ်ဝန်းလုံး",
-        "seal_image": "https://maepaysoh.org/seals/46.KNCS.jpg",
-        "contacts": [
-          "၀၉-၂၅၄၀၈၂၅၅၂",
-          "၀၉-၄၅၄၃၃၅၂၀၃",
-          "၀၉-၄၀၂၇၆၃၀၁၈"
-        ],
-        "flag_image": "https://maepaysoh.org/flags/46.KNCF.jpg",
-        "abbreviation": "KNC",
-        "headquarter_address": "အမှတ် (၆၉)၊ ဒူကထောင်ရပ်ကွက်၊ မြစ်ကြီးနားမြို့နယ်၊ ကချင်ပြည်နယ်။",
-        "establishment_application_date": null,
-        "policy": "https://uec.gov.mm/show_data_content.php?name=KNC%20Constitution.pdf&type=page_multiple_photo&code=100&sno=3212&token=15f82f18623eb1a88d24bbdd243a1e5bd8fe9ee62082b0381bdf432b668c3d88988782297427c7f7f8f90403d92fcb61e1c7ca507d761e78e38a27da66e14e9e",
-        "registration_approved_date": "၁၁-၁၂-၂၀၁၃",
-        "registration_application_date": "၁၁-၁၁-၂၀၁၃",
-        "name_burmese": "ကချင်အမျိုးသားကွန်ဂရက်ပါတီ"
-      },
-      "type": "party",
-      "id": "68"
+    "type": "party",
+    "id": "66"
+  },
+  {
+    "attributes": {
+      "member_count": "ဦးခန်ဒါးယော် ပါ(၁၉) ဦး",
+      "leaders_and_chairmen": [
+        "ဒေါက်တာMကောန်လ၊ ဦးဇယ်ဇောင်း (ထွေ/မှူး)"
+      ],
+      "establishment_approval_date": "၂၂-၁၀-၂၀၁၃",
+      "name_english": "Kachin National Congress (KNC)",
+      "registered_number": 68,
+      "region": "ပြည်ထောင်စုတစ်ဝန်းလုံး",
+      "seal_image": "https://maepaysoh.org/seals/46.KNCS.jpg",
+      "contacts": [
+        "၀၉-၂၅၄၀၈၂၅၅၂",
+        "၀၉-၄၅၄၃၃၅၂၀၃",
+        "၀၉-၄၀၂၇၆၃၀၁၈"
+      ],
+      "flag_image": "https://maepaysoh.org/flags/46.KNCF.jpg",
+      "abbreviation": "KNC",
+      "headquarter_address": "အမှတ် (၆၉)၊ ဒူကထောင်ရပ်ကွက်၊ မြစ်ကြီးနားမြို့နယ်၊ ကချင်ပြည်နယ်။",
+      "establishment_application_date": null,
+      "policy": "https://uec.gov.mm/show_data_content.php?name=KNC%20Constitution.pdf&type=page_multiple_photo&code=100&sno=3212&token=15f82f18623eb1a88d24bbdd243a1e5bd8fe9ee62082b0381bdf432b668c3d88988782297427c7f7f8f90403d92fcb61e1c7ca507d761e78e38a27da66e14e9e",
+      "registration_approved_date": "၁၁-၁၂-၂၀၁၃",
+      "registration_application_date": "၁၁-၁၁-၂၀၁၃",
+      "name_burmese": "ကချင်အမျိုးသားကွန်ဂရက်ပါတီ"
     },
-    {
-      "attributes": {
-        "member_count": "ဦးလာမာလေး ပါ\n(၁၇) ဦး",
-        "leaders_and_chairmen": [
-          "ဦးရွှေမင်း(ခ)ဆီဖာလာ၊ လူး၊ ဦးလေမေတား (ထွေ/မှူး)"
-        ],
-        "establishment_approval_date": "၂၉-၁၀-၂၀၁၃",
-        "name_english": "Lisu National Development Party (L.N.D.P)",
-        "registered_number": 69,
-        "region": "ပြည်ထောင်စုတစ်ဝန်းလုံး",
-        "seal_image": "https://maepaysoh.org/seals/47.L.N.D.PS.jpg",
-        "contacts": [
-          "၀၉-၄၀၀၀၃၆၂၉၉",
-          "၀၉-၄၇၀၀၀၉၅၇ (ဥက္ကဋ္ဌ) ၀၉-၂၄၀၁၅၀၆ (ဦးလီပေါ်ရဲ့)",
-          "၀၇၄ - ၂၈၁၉၂",
-          "၀၉-၄၃၁၆၉၂၅၇"
-        ],
-        "flag_image": "https://maepaysoh.org/flags/47.L.N.D.PF.jpg",
-        "abbreviation": "LNDP",
-        "headquarter_address": "အမှတ် (၁၈/၁၃)၊ ရမ်ပူရပ်ကွက်၊ မြစ်ကြီးနားမြို့နယ်၊ ကချင်ပြည်နယ်။",
-        "establishment_application_date": null,
-        "policy": "https://uec.gov.mm/show_data_content.php?name=Lisu%20Constituion.pdf&type=page_multiple_photo&code=101&sno=138&token=55dc6e499e88450b6f1f588b32f308c5314926367bdf7d783ad58988b614f2be24781b07072caaba04fd74d5fa7c67b591df60947493caa6ffadb94bc3eb6337",
-        "registration_approved_date": "၁၇-၁၂-၂၀၁၃",
-        "registration_application_date": "၁၄-၁၁-၂၀၁၃",
-        "name_burmese": "လီဆူအမျိုးသားဖွံ့ဖြိုးတိုးတက်ရေးပါတီ (ဒူးလေးပါတီ)"
-      },
-      "type": "party",
-      "id": "69"
+    "type": "party",
+    "id": "68"
+  },
+  {
+    "attributes": {
+      "member_count": "ဦးလာမာလေး ပါ(၁၇) ဦး",
+      "leaders_and_chairmen": [
+        "ဦးရွှေမင်း(ခ)ဆီဖာလာ၊ လူး၊ ဦးလေမေတား (ထွေ/မှူး)"
+      ],
+      "establishment_approval_date": "၂၉-၁၀-၂၀၁၃",
+      "name_english": "Lisu National Development Party (L.N.D.P)",
+      "registered_number": 69,
+      "region": "ပြည်ထောင်စုတစ်ဝန်းလုံး",
+      "seal_image": "https://maepaysoh.org/seals/47.L.N.D.PS.jpg",
+      "contacts": [
+        "၀၉-၄၀၀၀၃၆၂၉၉",
+        "၀၉-၄၇၀၀၀၉၅၇ (ဥက္ကဋ္ဌ) ၀၉-၂၄၀၁၅၀၆ (ဦးလီပေါ်ရဲ့)",
+        "၀၇၄ - ၂၈၁၉၂",
+        "၀၉-၄၃၁၆၉၂၅၇"
+      ],
+      "flag_image": "https://maepaysoh.org/flags/47.L.N.D.PF.jpg",
+      "abbreviation": "LNDP",
+      "headquarter_address": "အမှတ် (၁၈/၁၃)၊ ရမ်ပူရပ်ကွက်၊ မြစ်ကြီးနားမြို့နယ်၊ ကချင်ပြည်နယ်။",
+      "establishment_application_date": null,
+      "policy": "https://uec.gov.mm/show_data_content.php?name=Lisu%20Constituion.pdf&type=page_multiple_photo&code=101&sno=138&token=55dc6e499e88450b6f1f588b32f308c5314926367bdf7d783ad58988b614f2be24781b07072caaba04fd74d5fa7c67b591df60947493caa6ffadb94bc3eb6337",
+      "registration_approved_date": "၁၇-၁၂-၂၀၁၃",
+      "registration_application_date": "၁၄-၁၁-၂၀၁၃",
+      "name_burmese": "လီဆူအမျိုးသားဖွံ့ဖြိုးတိုးတက်ရေးပါတီ (ဒူးလေးပါတီ)"
     },
-    {
-      "attributes": {
-        "member_count": "ဦးစောသန်းမြင့် ပါ\n(၁၇) ဦး",
-        "leaders_and_chairmen": [
-          "ဦးစောသန်းမြင့်၊ ဦးကျော်ဇံသာ ၊ (တွင်း/မှူး-၁)"
-        ],
-        "establishment_approval_date": "၂၈-၁၀-၂၀၁၃",
-        "name_english": "Federal Union Party",
-        "registered_number": 71,
-        "region": "ပြည်ထောင်စုတစ်ဝန်းလုံး",
-        "seal_image": "https://maepaysoh.org/seals/49.FederalUnionPartyS.jpg",
-        "contacts": [
-          "၀၉-၈၆၃၂၉၁၈ (ဦးစောသန်းမြင့်)",
-          "၀၉-၄၉၃၄၇၅၁၈ (ဦးတင်ဆန်း)",
-          "၀၉-၂၀၄၂၉၉၆ (ဦးစဝ်သာဦး) ၀၉-၂၅၄၁၂၇၄၀၉ (ဒေါ်ဝေမာမြင့်) ၀၉-၂၅၄၂၇၀၁၁၇",
-          "၀၉-၂၅၀၁၁၂၃၂၃"
-        ],
-        "flag_image": "https://maepaysoh.org/flags/49.FederalUnionPartyF.jpg",
-        "abbreviation": "FUP",
-        "headquarter_address": "တိုက်အမှတ် (၂၀)၊ အခန်း(၅/ဘီ)၊ ရှင်စောပုဘုရားလမ်းနှင့် ပဏ္ဍိတလမ်းထောင့်၊ စမ်းချောင်းမြို့နယ်၊ ရန်ကုန်တိုင်းဒေသကြီး။",
-        "establishment_application_date": null,
-        "policy": "https://uec.gov.mm/show_data_content.php?name=64FederalUnionParty.pdf&type=page_multiple_photo&code=103&sno=7116&token=5263b867dddc921463898ae34227e057021cdb64fdd73bebc8ea50748b950d6b0e7347cfb0c4360e3055d8609835cacc68f1824112c7e0c08c412ce56daac49c",
-        "registration_approved_date": "၂၄-၁၂-၂၀၁၃",
-        "registration_application_date": "၁၉-၁၁-၂၀၁၃",
-        "name_burmese": "ဖက်ဒရယ်ပြည်ထောင်စုပါတီ"
-      },
-      "type": "party",
-      "id": "71"
+    "type": "party",
+    "id": "69"
+  },
+  {
+    "attributes": {
+      "member_count": "ဦးစောသန်းမြင့် ပါ(၁၇) ဦး",
+      "leaders_and_chairmen": [
+        "ဦးစောသန်းမြင့်၊ ဦးကျော်ဇံသာ ၊ (တွင်း/မှူး-၁)"
+      ],
+      "establishment_approval_date": "၂၈-၁၀-၂၀၁၃",
+      "name_english": "Federal Union Party",
+      "registered_number": 71,
+      "region": "ပြည်ထောင်စုတစ်ဝန်းလုံး",
+      "seal_image": "https://maepaysoh.org/seals/49.FederalUnionPartyS.jpg",
+      "contacts": [
+        "၀၉-၈၆၃၂၉၁၈ (ဦးစောသန်းမြင့်)",
+        "၀၉-၄၉၃၄၇၅၁၈ (ဦးတင်ဆန်း)",
+        "၀၉-၂၀၄၂၉၉၆ (ဦးစဝ်သာဦး) ၀၉-၂၅၄၁၂၇၄၀၉ (ဒေါ်ဝေမာမြင့်) ၀၉-၂၅၄၂၇၀၁၁၇",
+        "၀၉-၂၅၀၁၁၂၃၂၃"
+      ],
+      "flag_image": "https://maepaysoh.org/flags/49.FederalUnionPartyF.jpg",
+      "abbreviation": "FUP",
+      "headquarter_address": "တိုက်အမှတ် (၂၀)၊ အခန်း(၅/ဘီ)၊ ရှင်စောပုဘုရားလမ်းနှင့် ပဏ္ဍိတလမ်းထောင့်၊ စမ်းချောင်းမြို့နယ်၊ ရန်ကုန်တိုင်းဒေသကြီး။",
+      "establishment_application_date": null,
+      "policy": "https://uec.gov.mm/show_data_content.php?name=64FederalUnionParty.pdf&type=page_multiple_photo&code=103&sno=7116&token=5263b867dddc921463898ae34227e057021cdb64fdd73bebc8ea50748b950d6b0e7347cfb0c4360e3055d8609835cacc68f1824112c7e0c08c412ce56daac49c",
+      "registration_approved_date": "၂၄-၁၂-၂၀၁၃",
+      "registration_application_date": "၁၉-၁၁-၂၀၁၃",
+      "name_burmese": "ဖက်ဒရယ်ပြည်ထောင်စုပါတီ"
     },
-    {
-      "attributes": {
-        "member_count": "ဦးခွန်အောင်စစ် ပါ\n(၁၅) ဦး",
-        "leaders_and_chairmen": [],
-        "establishment_approval_date": "၁၈-၁၁-၂၀၁၃",
-        "name_english": "Union Pa.O National Organization",
-        "registered_number": 73,
-        "region": "ပြည်ထောင်စုတစ်ဝန်းလုံး",
-        "seal_image": "https://maepaysoh.org/seals/50.Pa-ONationalUnionPartyS.jpg",
-        "contacts": [
-          "၀၉-၅၂၁၀၄၈၅ (ဦးခွန်မျိုးမြင့်ဦး)",
-          "၀၉-၃၁၄၉၀၈၀၂",
-          "၀၉-၄၂၀၀၉၁၀၇၉ (ဦးခွန်စိုးမြင့်)",
-          "၀၉-၄၂၁၉၄၁၆၉၁ (ဦးခွန်ကျော်ဆွေ)"
-        ],
-        "flag_image": "https://maepaysoh.org/flags/50.Pa-ONationalUnionPartyF.jpg",
-        "abbreviation": null,
-        "headquarter_address": "အမှတ် (မ/ ၁၉၅)၊ ဘုရင့်နောင်လမ်း၊ ကံသာဓမ္မာရုံအရှေ့ဘက်၊ မြို့မရပ်ကွက်၊ တောင်ကြီးမြို့၊ ရှမ်းပြည်နယ်။",
-        "establishment_application_date": null,
-        "policy": "https://uec.gov.mm/show_data_content.php?name=66UnionPaoNationalOrganization123.pdf&type=page_multiple_photo&code=113&sno=622&token=3a9e9d70f88cedd493960022bcadd9e34a3e4f4970fbbd8f1e3d489b72c75e8adb6305e0b8643c6a1c830d464c59d9e28369e0b09acd4ce056bce2a78f69ef41",
-        "registration_approved_date": "၂၃-၁-၂၀၁၄",
-        "registration_application_date": "၆-၁၂-၂၀၁၃",
-        "name_burmese": "ပြည်ထောင်စုပအိုဝ်းအမျိုးသားအဖွဲ့ချုပ်(ပ.အ.မ.ဖ)ပါတီ"
-      },
-      "type": "party",
-      "id": "73"
+    "type": "party",
+    "id": "71"
+  },
+  {
+    "attributes": {
+      "member_count": "ဦးခွန်အောင်စစ် ပါ(၁၅) ဦး",
+      "leaders_and_chairmen": [],
+      "establishment_approval_date": "၁၈-၁၁-၂၀၁၃",
+      "name_english": "Union Pa.O National Organization",
+      "registered_number": 73,
+      "region": "ပြည်ထောင်စုတစ်ဝန်းလုံး",
+      "seal_image": "https://maepaysoh.org/seals/50.Pa-ONationalUnionPartyS.jpg",
+      "contacts": [
+        "၀၉-၅၂၁၀၄၈၅ (ဦးခွန်မျိုးမြင့်ဦး)",
+        "၀၉-၃၁၄၉၀၈၀၂",
+        "၀၉-၄၂၀၀၉၁၀၇၉ (ဦးခွန်စိုးမြင့်)",
+        "၀၉-၄၂၁၉၄၁၆၉၁ (ဦးခွန်ကျော်ဆွေ)"
+      ],
+      "flag_image": "https://maepaysoh.org/flags/50.Pa-ONationalUnionPartyF.jpg",
+      "abbreviation": null,
+      "headquarter_address": "အမှတ် (မ/ ၁၉၅)၊ ဘုရင့်နောင်လမ်း၊ ကံသာဓမ္မာရုံအရှေ့ဘက်၊ မြို့မရပ်ကွက်၊ တောင်ကြီးမြို့၊ ရှမ်းပြည်နယ်။",
+      "establishment_application_date": null,
+      "policy": "https://uec.gov.mm/show_data_content.php?name=66UnionPaoNationalOrganization123.pdf&type=page_multiple_photo&code=113&sno=622&token=3a9e9d70f88cedd493960022bcadd9e34a3e4f4970fbbd8f1e3d489b72c75e8adb6305e0b8643c6a1c830d464c59d9e28369e0b09acd4ce056bce2a78f69ef41",
+      "registration_approved_date": "၂၃-၁-၂၀၁၄",
+      "registration_application_date": "၆-၁၂-၂၀၁၃",
+      "name_burmese": "ပြည်ထောင်စုပအိုဝ်းအမျိုးသားအဖွဲ့ချုပ်(ပ.အ.မ.ဖ)ပါတီ"
     },
-    {
-      "attributes": {
-        "member_count": "ဦးခင်မောင်ညို ပါ\n(၃၆) ဦး",
-        "leaders_and_chairmen": [
-          "ဦးတင်မောင်ဦး၊ ဦးနေမျိုး (ထွေ/မှူး)"
-        ],
-        "establishment_approval_date": "၉-၂-၂၀၁၅",
-        "name_english": "Danu National Organization Party",
-        "registered_number": 81,
-        "region": "ရှမ်းပြည်နယ်အတွင်း",
-        "seal_image": "https://maepaysoh.org/seals/57.DNOPS.jpg",
-        "contacts": [
-          "၀၉-၄၉၃၅၇၈၄၄",
-          "၀၉-၇၈၉၄၆၈၇၅၀ (ဦးမောင်ရွှေ)"
-        ],
-        "flag_image": "https://maepaysoh.org/flags/57.DNOPF.jpg",
-        "abbreviation": null,
-        "headquarter_address": "အိမ်အမှတ် (စျ-၃၄၈)၊ သစ္စာလမ်း၊ စျေးတန်း(တောင်ပိုင်း) ရပ်ကွက်၊ ရွာငံမြို့၊ ရှမ်းပြည်နယ်။",
-        "establishment_application_date": null,
-        "policy": "https://uec.gov.mm/show_data_content.php?name=72-DanuNationalOrganizationParty.pdf&type=page_multiple_photo&code=121&sno=1080&token=02140c927cd68354d6585df2755c675bbab3e656b8d3b6504d9183728f8edaacb76fa91c047db71328b5221541108ce855a5d5f14990105da60400e4ccff100b",
-        "registration_approved_date": "၂၇-၄-၂၀၁၅",
-        "registration_application_date": "၂၇-၂-၂၀၁၅",
-        "name_burmese": "ဓနုအမျိုးသားများအဖွဲ့ချုပ်ပါတီ"
-      },
-      "type": "party",
-      "id": "81"
+    "type": "party",
+    "id": "73"
+  },
+  {
+    "attributes": {
+      "member_count": "ဦးခင်မောင်ညို ပါ(၃၆) ဦး",
+      "leaders_and_chairmen": [
+        "ဦးတင်မောင်ဦး၊ ဦးနေမျိုး (ထွေ/မှူး)"
+      ],
+      "establishment_approval_date": "၉-၂-၂၀၁၅",
+      "name_english": "Danu National Organization Party",
+      "registered_number": 81,
+      "region": "ရှမ်းပြည်နယ်အတွင်း",
+      "seal_image": "https://maepaysoh.org/seals/57.DNOPS.jpg",
+      "contacts": [
+        "၀၉-၄၉၃၅၇၈၄၄",
+        "၀၉-၇၈၉၄၆၈၇၅၀ (ဦးမောင်ရွှေ)"
+      ],
+      "flag_image": "https://maepaysoh.org/flags/57.DNOPF.jpg",
+      "abbreviation": null,
+      "headquarter_address": "အိမ်အမှတ် (စျ-၃၄၈)၊ သစ္စာလမ်း၊ စျေးတန်း(တောင်ပိုင်း) ရပ်ကွက်၊ ရွာငံမြို့၊ ရှမ်းပြည်နယ်။",
+      "establishment_application_date": null,
+      "policy": "https://uec.gov.mm/show_data_content.php?name=72-DanuNationalOrganizationParty.pdf&type=page_multiple_photo&code=121&sno=1080&token=02140c927cd68354d6585df2755c675bbab3e656b8d3b6504d9183728f8edaacb76fa91c047db71328b5221541108ce855a5d5f14990105da60400e4ccff100b",
+      "registration_approved_date": "၂၇-၄-၂၀၁၅",
+      "registration_application_date": "၂၇-၂-၂၀၁၅",
+      "name_burmese": "ဓနုအမျိုးသားများအဖွဲ့ချုပ်ပါတီ"
     },
-    {
-      "attributes": {
-        "member_count": "ဦးဒေါင်ခမ် ပါ\n(၂၁) ဦး",
-        "leaders_and_chairmen": [
-          "ဒေါက်တာလခမ်ဒေါင်ခမ်၊ ဦးဒေးဝိ"
-        ],
-        "establishment_approval_date": "၂၈-၅-၂၀၁၅",
-        "name_english": "Lhaovo National Unity and Development Party",
-        "registered_number": 89,
-        "region": "ပြည်ထောင်စုတစ်ဝန်းလုံး",
-        "seal_image": "https://maepaysoh.org/seals/63.LNUDPS.jpg",
-        "contacts": [
-          "၀၉-၇၈၄၂၀၀၇၆၉",
-          "၀၉-၇၉၃၀၀၈၅၈၀",
-          "၀၉-၇၉၈၉၈၅၅၁၄",
-          "၀၉-၄၀၀၀၄၁၀၃၇ (ဦးဒေါင်ခေါင်)",
-          "၀၉-၄၇၁၀၆၉၂၇",
-          "၀၉-၃၆၂၅၂၀၃၇ (ဦးဒေးဝိ)"
-        ],
-        "flag_image": "https://maepaysoh.org/flags/63.LNUDPF.jpg",
-        "abbreviation": "LNUDP",
-        "headquarter_address": "အမှတ် (၈၁)၊ ရပ်ကွက် (၂)၊ ဝိုင်းမော်မြို့၊ ကချင်ပြည်နယ်။",
-        "establishment_application_date": null,
-        "policy": "https://uec.gov.mm/show_data_content.php?name=80-LNUDPConstituation.pdf&type=page_multiple_photo&code=129&sno=1376&token=5300f7ae46f926dab0931ca70f41c43aa3f679e130dabd104af3ffa42fcf6d4cec44bae379a4435d677e1cc0088d5a6fa053ddccd4c9c452a8a22dfa7bf9a5e6",
-        "registration_approved_date": "၂၉-၆-၂၀၁၅",
-        "registration_application_date": "၄-၆-၂၀၁၅",
-        "name_burmese": "လော်ဝေါ်အမျိုးသားစည်းလုံးညီညွတ်ရေးနှင့်ဖွံ့ဖြိုးရေးပါတီ"
-      },
-      "type": "party",
-      "id": "89"
+    "type": "party",
+    "id": "81"
+  },
+  {
+    "attributes": {
+      "member_count": "ဦးဒေါင်ခမ် ပါ(၂၁) ဦး",
+      "leaders_and_chairmen": [
+        "ဒေါက်တာလခမ်ဒေါင်ခမ်၊ ဦးဒေးဝိ"
+      ],
+      "establishment_approval_date": "၂၈-၅-၂၀၁၅",
+      "name_english": "Lhaovo National Unity and Development Party",
+      "registered_number": 89,
+      "region": "ပြည်ထောင်စုတစ်ဝန်းလုံး",
+      "seal_image": "https://maepaysoh.org/seals/63.LNUDPS.jpg",
+      "contacts": [
+        "၀၉-၇၈၄၂၀၀၇၆၉",
+        "၀၉-၇၉၃၀၀၈၅၈၀",
+        "၀၉-၇၉၈၉၈၅၅၁၄",
+        "၀၉-၄၀၀၀၄၁၀၃၇ (ဦးဒေါင်ခေါင်)",
+        "၀၉-၄၇၁၀၆၉၂၇",
+        "၀၉-၃၆၂၅၂၀၃၇ (ဦးဒေးဝိ)"
+      ],
+      "flag_image": "https://maepaysoh.org/flags/63.LNUDPF.jpg",
+      "abbreviation": "LNUDP",
+      "headquarter_address": "အမှတ် (၈၁)၊ ရပ်ကွက် (၂)၊ ဝိုင်းမော်မြို့၊ ကချင်ပြည်နယ်။",
+      "establishment_application_date": null,
+      "policy": "https://uec.gov.mm/show_data_content.php?name=80-LNUDPConstituation.pdf&type=page_multiple_photo&code=129&sno=1376&token=5300f7ae46f926dab0931ca70f41c43aa3f679e130dabd104af3ffa42fcf6d4cec44bae379a4435d677e1cc0088d5a6fa053ddccd4c9c452a8a22dfa7bf9a5e6",
+      "registration_approved_date": "၂၉-၆-၂၀၁၅",
+      "registration_application_date": "၄-၆-၂၀၁၅",
+      "name_burmese": "လော်ဝေါ်အမျိုးသားစည်းလုံးညီညွတ်ရေးနှင့်ဖွံ့ဖြိုးရေးပါတီ"
     },
-    {
-      "attributes": {
-        "member_count": "ဦးထွန်းအောင် ပါ\n(၁၅) ဦး",
-        "leaders_and_chairmen": [
-          "ဦးထွန်းအောင်၊ ဦးအားလယ်"
-        ],
-        "establishment_approval_date": "၁၅-၆-၂၀၁၅",
-        "name_english": "Akha National Development Party",
-        "registered_number": 93,
-        "region": "ရှမ်းပြည်နယ်အတွင်း",
-        "seal_image": "https://maepaysoh.org/seals/65.ANDPS.jpg",
-        "contacts": [
-          "၀၈၄-၅၂၃၉၈",
-          "၀၉-၅၂၄၂၃၅၁ (ဦးအားလယ်)",
-          "၀၉-၃၂၆၆၈၅၅၂",
-          "၀၉-၄၄၈၇၆၉၉၂၃ (ဦးအားဂျို)"
-        ],
-        "flag_image": "https://maepaysoh.org/flags/65.ANDPF.jpg",
-        "abbreviation": null,
-        "headquarter_address": "အမှတ် (၂၈၁)၊ အာခါစျေးလမ်း၊ ဝိန်းကျောက်ရပ်၊ တာချီလိတ်မြို့၊ ရှမ်းပြည်နယ်။",
-        "establishment_application_date": null,
-        "policy": "https://uec.gov.mm/show_data_content.php?name=84-Akha.pdf&type=page_multiple_photo&code=133&sno=1738&token=c241c0f1a38c7bac76d3d1fe47c793e0d678bba7d691bb2e8bfe805e054f87cb01d680994095b4a1ab653b14aaf6897b7f8644d488c654b056d160570c671c8f",
-        "registration_approved_date": "၈-၇-၂၀၁၅",
-        "registration_application_date": "၁၉-၆-၂၀၁၅",
-        "name_burmese": "အာခါအမျိုးသားဖွံ့ဖြိုးတိုးတက်ရေးပါတီ"
-      },
-      "type": "party",
-      "id": "93"
+    "type": "party",
+    "id": "89"
+  },
+  {
+    "attributes": {
+      "member_count": "ဦးထွန်းအောင် ပါ(၁၅) ဦး",
+      "leaders_and_chairmen": [
+        "ဦးထွန်းအောင်၊ ဦးအားလယ်"
+      ],
+      "establishment_approval_date": "၁၅-၆-၂၀၁၅",
+      "name_english": "Akha National Development Party",
+      "registered_number": 93,
+      "region": "ရှမ်းပြည်နယ်အတွင်း",
+      "seal_image": "https://maepaysoh.org/seals/65.ANDPS.jpg",
+      "contacts": [
+        "၀၈၄-၅၂၃၉၈",
+        "၀၉-၅၂၄၂၃၅၁ (ဦးအားလယ်)",
+        "၀၉-၃၂၆၆၈၅၅၂",
+        "၀၉-၄၄၈၇၆၉၉၂၃ (ဦးအားဂျို)"
+      ],
+      "flag_image": "https://maepaysoh.org/flags/65.ANDPF.jpg",
+      "abbreviation": null,
+      "headquarter_address": "အမှတ် (၂၈၁)၊ အာခါစျေးလမ်း၊ ဝိန်းကျောက်ရပ်၊ တာချီလိတ်မြို့၊ ရှမ်းပြည်နယ်။",
+      "establishment_application_date": null,
+      "policy": "https://uec.gov.mm/show_data_content.php?name=84-Akha.pdf&type=page_multiple_photo&code=133&sno=1738&token=c241c0f1a38c7bac76d3d1fe47c793e0d678bba7d691bb2e8bfe805e054f87cb01d680994095b4a1ab653b14aaf6897b7f8644d488c654b056d160570c671c8f",
+      "registration_approved_date": "၈-၇-၂၀၁၅",
+      "registration_application_date": "၁၉-၆-၂၀၁၅",
+      "name_burmese": "အာခါအမျိုးသားဖွံ့ဖြိုးတိုးတက်ရေးပါတီ"
     },
-    {
-      "attributes": {
-        "member_count": "ဦးကိုကိုကြီး ပါ\n(၁၈) ဦး",
-        "leaders_and_chairmen": [
-          "ဦးကိုကိုကြီး၊ ဦးရဲနိုင်အောင် (ထွေ/မှူး)"
-        ],
-        "establishment_approval_date": "၂၆-၄-၂၀၁၈",
-        "name_english": "People's Party",
-        "registered_number": 110,
-        "region": "ပြည်ထောင်စုတစ်ဝန်းလုံး",
-        "seal_image": "https://maepaysoh.org/seals/78.People'sPartyS.jpg",
-        "contacts": [
-          "၀၉-၄၄၈၀၂၄၀၈၈",
-          "(ဦးကိုကိုကြီး)",
-          "၀၉-၅၁၆၆၆၃၇",
-          "(ဦးကျော်လင်း)"
-        ],
-        "flag_image": "https://maepaysoh.org/flags/78.People'sPartyF.jpg",
-        "abbreviation": null,
-        "headquarter_address": "အမှတ်(၉၀၆)၊ (၉)လွှာ၊ ယုဇနတာဝါ၊ ရွှေဂုံတိုင်လမ်း၊ ဗဟန်းမြို့နယ်၊ ရန်ကုန်တိုင်းဒေသကြီး။",
-        "establishment_application_date": null,
-        "policy": "https://uec.gov.mm/show_data_content.php?name=People_s%20Party2.pdf&type=page_multiple_photo&code=182&sno=8716&token=4ca465cf6fe5f5c3d465cf6d17a10687a61168c584e0fa3bb9cf4b9bf778576a47513b7a01563183408aadffd31e426c8b36f79ebd949a0a34beb48499c43e7c",
-        "registration_approved_date": "၂၃-၈-၂၀၁၈",
-        "registration_application_date": "၂-၅-၂၀၁၈",
-        "name_burmese": "ပြည်သူ့ပါတီ"
-      },
-      "type": "party",
-      "id": "110"
+    "type": "party",
+    "id": "93"
+  },
+  {
+    "attributes": {
+      "member_count": "ဦးကိုကိုကြီး ပါ(၁၈) ဦး",
+      "leaders_and_chairmen": [
+        "ဦးကိုကိုကြီး၊ ဦးရဲနိုင်အောင် (ထွေ/မှူး)"
+      ],
+      "establishment_approval_date": "၂၆-၄-၂၀၁၈",
+      "name_english": "People's Party",
+      "registered_number": 110,
+      "region": "ပြည်ထောင်စုတစ်ဝန်းလုံး",
+      "seal_image": "https://maepaysoh.org/seals/78.People'sPartyS.jpg",
+      "contacts": [
+        "၀၉-၄၄၈၀၂၄၀၈၈",
+        "(ဦးကိုကိုကြီး)",
+        "၀၉-၅၁၆၆၆၃၇",
+        "(ဦးကျော်လင်း)"
+      ],
+      "flag_image": "https://maepaysoh.org/flags/78.People'sPartyF.jpg",
+      "abbreviation": null,
+      "headquarter_address": "အမှတ်(၉၀၆)၊ (၉)လွှာ၊ ယုဇနတာဝါ၊ ရွှေဂုံတိုင်လမ်း၊ ဗဟန်းမြို့နယ်၊ ရန်ကုန်တိုင်းဒေသကြီး။",
+      "establishment_application_date": null,
+      "policy": "https://uec.gov.mm/show_data_content.php?name=People_s%20Party2.pdf&type=page_multiple_photo&code=182&sno=8716&token=4ca465cf6fe5f5c3d465cf6d17a10687a61168c584e0fa3bb9cf4b9bf778576a47513b7a01563183408aadffd31e426c8b36f79ebd949a0a34beb48499c43e7c",
+      "registration_approved_date": "၂၃-၈-၂၀၁၈",
+      "registration_application_date": "၂-၅-၂၀၁၈",
+      "name_burmese": "ပြည်သူ့ပါတီ"
     },
-    {
-      "attributes": {
-        "member_count": "သူရဦးရွှေမန်း ပါ\n(၁၉) ဦး",
-        "leaders_and_chairmen": [],
-        "establishment_approval_date": "၄-၄-၂၀၁၉",
-        "name_english": "Union Betterment Party",
-        "registered_number": 112,
-        "region": "ပြည်ထောင်စုတစ်ဝန်းလုံး",
-        "seal_image": "https://maepaysoh.org/seals/80.UBPS.jpg",
-        "contacts": [
-          "၀၉-၉၆၅၂၀၂၇၂၉ (ဦးကျော်စန်း)"
-        ],
-        "flag_image": "https://maepaysoh.org/flags/80.UBPF.jpg",
-        "abbreviation": "UBP",
-        "headquarter_address": "အိမ်အမှတ် (A-3)၊ ရာဇသင်္ဂဟလမ်း၊ ပုဗ္ဗသီရိမြို့နယ်၊ ဥတ္တရခရိုင်၊ နေပြည်တော်။",
-        "establishment_application_date": null,
-        "policy": "https://uec.gov.mm/show_data_content.php?name=UBP.pdf&type=page_multiple_photo&code=185&sno=9528&token=a751999fd34f1243a0085611d91039171530e17a2ab51c847405001d51ddd8a047d4a57a96db602b5065a3d4ef974887f1dc30a2af1a9bbee055f385fef19f57",
-        "registration_approved_date": "၂၅-၄-၂၀၁၉",
-        "registration_application_date": "၈-၄-၂၀၁၉",
-        "name_burmese": "ပြည်ထောင်စုကောင်းကျိုးဆောင်ပါတီ"
-      },
-      "type": "party",
-      "id": "112"
+    "type": "party",
+    "id": "110"
+  },
+  {
+    "attributes": {
+      "member_count": "သူရဦးရွှေမန်း ပါ(၁၉) ဦး",
+      "leaders_and_chairmen": [],
+      "establishment_approval_date": "၄-၄-၂၀၁၉",
+      "name_english": "Union Betterment Party",
+      "registered_number": 112,
+      "region": "ပြည်ထောင်စုတစ်ဝန်းလုံး",
+      "seal_image": "https://maepaysoh.org/seals/80.UBPS.jpg",
+      "contacts": [
+        "၀၉-၉၆၅၂၀၂၇၂၉ (ဦးကျော်စန်း)"
+      ],
+      "flag_image": "https://maepaysoh.org/flags/80.UBPF.jpg",
+      "abbreviation": "UBP",
+      "headquarter_address": "အိမ်အမှတ် (A-3)၊ ရာဇသင်္ဂဟလမ်း၊ ပုဗ္ဗသီရိမြို့နယ်၊ ဥတ္တရခရိုင်၊ နေပြည်တော်။",
+      "establishment_application_date": null,
+      "policy": "https://uec.gov.mm/show_data_content.php?name=UBP.pdf&type=page_multiple_photo&code=185&sno=9528&token=a751999fd34f1243a0085611d91039171530e17a2ab51c847405001d51ddd8a047d4a57a96db602b5065a3d4ef974887f1dc30a2af1a9bbee055f385fef19f57",
+      "registration_approved_date": "၂၅-၄-၂၀၁၉",
+      "registration_application_date": "၈-၄-၂၀၁၉",
+      "name_burmese": "ပြည်ထောင်စုကောင်းကျိုးဆောင်ပါတီ"
     },
-    {
-      "attributes": {
-        "member_count": "ဦးစိုးမောင် ပါ\n(၂၀) ဦး",
-        "leaders_and_chairmen": [],
-        "establishment_approval_date": "၂၀-၂-၂၀၁၉",
-        "name_english": "Democratic Party of National Politics (DNP)",
-        "registered_number": 114,
-        "region": "ပြည်ထောင်စုတစ်ဝန်းလုံး",
-        "seal_image": "https://maepaysoh.org/seals/82.DNPS.jpg",
-        "contacts": [
-          "၀၉−၇၉၂၀၃၆၆၇၆",
-          "၀၉−၂၀၃၂၈၅၃"
-        ],
-        "flag_image": "https://maepaysoh.org/flags/82.DNPF.jpg",
-        "abbreviation": "DNP",
-        "headquarter_address": "ဇေယျဌာနီလမ်းနှင့် ပန်းခင်းလမ်းထောင့်ရှိ \nစက်ြာဒီပါခြံ (ဘဲကုန်းမီး\nပွိုင့်အနီး)၊ပုဗ္ဗသီရိမြို့နယ်၊ နေပြည်တော်။",
-        "establishment_application_date": null,
-        "policy": "https://uec.gov.mm/show_data_content.php?name=_114_Organizational%20set-up.pdf&type=page_multiple_photo&code=187&sno=3664&token=44ce013c876cfffed9f177d7de49fcbb0be3b0ec61c475a207ca618f18f36543dbe29511c03bcad634c0f7ee94b19889d339a093fb24bcc85ef62f2363b0846a",
-        "registration_approved_date": "၁၇-၅-၂၀၁၉",
-        "registration_application_date": "၂၈-၂-၂၀၁၉",
-        "name_burmese": "အမျိုးသားနိုင်ငံရေးဒီမိုကရက်တစ်ပါတီ"
-      },
-      "type": "party",
-      "id": "114"
+    "type": "party",
+    "id": "112"
+  },
+  {
+    "attributes": {
+      "member_count": "ဦးစိုးမောင် ပါ(၂၀) ဦး",
+      "leaders_and_chairmen": [],
+      "establishment_approval_date": "၂၀-၂-၂၀၁၉",
+      "name_english": "Democratic Party of National Politics (DNP)",
+      "registered_number": 114,
+      "region": "ပြည်ထောင်စုတစ်ဝန်းလုံး",
+      "seal_image": "https://maepaysoh.org/seals/82.DNPS.jpg",
+      "contacts": [
+        "၀၉−၇၉၂၀၃၆၆၇၆",
+        "၀၉−၂၀၃၂၈၅၃"
+      ],
+      "flag_image": "https://maepaysoh.org/flags/82.DNPF.jpg",
+      "abbreviation": "DNP",
+      "headquarter_address": "ဇေယျဌာနီလမ်းနှင့် ပန်းခင်းလမ်းထောင့်ရှိ စက်ြာဒီပါခြံ (ဘဲကုန်းမီးပွိုင့်အနီး)၊ပုဗ္ဗသီရိမြို့နယ်၊ နေပြည်တော်။",
+      "establishment_application_date": null,
+      "policy": "https://uec.gov.mm/show_data_content.php?name=_114_Organizational%20set-up.pdf&type=page_multiple_photo&code=187&sno=3664&token=44ce013c876cfffed9f177d7de49fcbb0be3b0ec61c475a207ca618f18f36543dbe29511c03bcad634c0f7ee94b19889d339a093fb24bcc85ef62f2363b0846a",
+      "registration_approved_date": "၁၇-၅-၂၀၁၉",
+      "registration_application_date": "၂၈-၂-၂၀၁၉",
+      "name_burmese": "အမျိုးသားနိုင်ငံရေးဒီမိုကရက်တစ်ပါတီ"
     },
-    {
-      "attributes": {
-        "member_count": "ဦးမျိုးချစ် ပါ\n(၁၈) ဦး",
-        "leaders_and_chairmen": [
-          "ဦးငိုင်ဆာ့ခ်၊ ဆလိုင်းကျဲအိုဘိခ်ထောင်၊ (ထွေ/မှူး)"
-        ],
-        "establishment_approval_date": "၁၇-၅-၂၀၁၉",
-        "name_english": "Chin National League for Democracy Party",
-        "registered_number": 116,
-        "region": "ပြည်ထောင်စုတစ်ဝန်းလုံး",
-        "seal_image": "https://maepaysoh.org/seals/84.ChinNationalLeagueForDemocracyPartyS.jpg",
-        "contacts": [
-          "၀၉-၅၁၆၀၇၈၄ (ဦးငိုင်ဆာ့ခ်)"
-        ],
-        "flag_image": "https://maepaysoh.org/flags/84.ChinNationalLeagueForDemocracyPartyF.jpg",
-        "abbreviation": "CNLD",
-        "headquarter_address": "တိုက်အမှတ် (B-၁၂)၊ အခန်း(၃၀၁)၊ ရွှေကမ္ဘာအိမ်ရာ၊ မင်းဓမ္မလမ်း၊ (၃)ရပ်ကွက်၊ မရမ်းကုန်းမြို့နယ်၊ ရန်ကုန်တိုင်းဒေသကြီး။",
-        "establishment_application_date": null,
-        "policy": "https://uec.gov.mm/show_data_content.php?name=_3_%20CNLDP%20_Organization%20Set-up_.pdf&type=page_multiple_photo&code=189&sno=9094&token=312f764797901eeba8d8328dc18d2f4af2d9aeb421442df7f3ad3b4c5326151b739ca88e26997977f12cf3352441ae7d85c67508e8b2cd910553b4562424b4df",
-        "registration_approved_date": "၁၁-၇-၂၀၁၉",
-        "registration_application_date": "၂၃-၅-၂၀၁၉",
-        "name_burmese": "ချင်းအမျိုးသားဒီမိုကရေစီအဖွဲ့ချုပ်ပါတီ"
-      },
-      "type": "party",
-      "id": "116"
+    "type": "party",
+    "id": "114"
+  },
+  {
+    "attributes": {
+      "member_count": "ဦးမျိုးချစ် ပါ(၁၈) ဦး",
+      "leaders_and_chairmen": [
+        "ဦးငိုင်ဆာ့ခ်၊ ဆလိုင်းကျဲအိုဘိခ်ထောင်၊ (ထွေ/မှူး)"
+      ],
+      "establishment_approval_date": "၁၇-၅-၂၀၁၉",
+      "name_english": "Chin National League for Democracy Party",
+      "registered_number": 116,
+      "region": "ပြည်ထောင်စုတစ်ဝန်းလုံး",
+      "seal_image": "https://maepaysoh.org/seals/84.ChinNationalLeagueForDemocracyPartyS.jpg",
+      "contacts": [
+        "၀၉-၅၁၆၀၇၈၄ (ဦးငိုင်ဆာ့ခ်)"
+      ],
+      "flag_image": "https://maepaysoh.org/flags/84.ChinNationalLeagueForDemocracyPartyF.jpg",
+      "abbreviation": "CNLD",
+      "headquarter_address": "တိုက်အမှတ် (B-၁၂)၊ အခန်း(၃၀၁)၊ ရွှေကမ္ဘာအိမ်ရာ၊ မင်းဓမ္မလမ်း၊ (၃)ရပ်ကွက်၊ မရမ်းကုန်းမြို့နယ်၊ ရန်ကုန်တိုင်းဒေသကြီး။",
+      "establishment_application_date": null,
+      "policy": "https://uec.gov.mm/show_data_content.php?name=_3_%20CNLDP%20_Organization%20Set-up_.pdf&type=page_multiple_photo&code=189&sno=9094&token=312f764797901eeba8d8328dc18d2f4af2d9aeb421442df7f3ad3b4c5326151b739ca88e26997977f12cf3352441ae7d85c67508e8b2cd910553b4562424b4df",
+      "registration_approved_date": "၁၁-၇-၂၀၁၉",
+      "registration_application_date": "၂၃-၅-၂၀၁၉",
+      "name_burmese": "ချင်းအမျိုးသားဒီမိုကရေစီအဖွဲ့ချုပ်ပါတီ"
     },
-    {
-      "attributes": {
-        "member_count": "ဦးမြင့်မောင်ထွန်း ပါ \n(၁၉) ဦး",
-        "leaders_and_chairmen": [
-          "ဒေါက်တာသက်သက်ခိုင်၊ ဦးစောဟန်အေး ၊ (ထွေ/မှူး)"
-        ],
-        "establishment_approval_date": "၈-၈-၂၀၁၉",
-        "name_english": "People's Pioneer Party",
-        "registered_number": 122,
-        "region": "ပြည်ထောင်စုတစ်ဝန်းလုံး",
-        "seal_image": "https://maepaysoh.org/seals/90.People'sPioneerPartyS.jpg",
-        "contacts": [
-          "၀၉-၅၁၈၃၀၀၆"
-        ],
-        "flag_image": "https://maepaysoh.org/flags/90.People'sPioneerPartyF.jpg",
-        "abbreviation": null,
-        "headquarter_address": "အမှတ်(၆၃)၊ လသာအောက်လမ်း၊ (၃)ရပ်ကွက်၊ လသာမြို့နယ်၊\nရန်ကုန်တိုင်းဒေသကြီး။",
-        "establishment_application_date": null,
-        "policy": "https://uec.gov.mm/show_data_content.php?name=_122_%20People_s%20Pioneer%20Party%20_Organization%20Set-up_.pdf&type=page_multiple_photo&code=195&sno=1046&token=21f1a039f4e9e7d237f6623a29531680b2de4270d461614726c5fd05f1f2ff05f65f41b4e58849f06082b55afe3c4f870c8229bc1443e62e9c99edb75d15fe84",
-        "registration_approved_date": "၂၃-၁၀-၂၀၁၉",
-        "registration_application_date": "၁၆-၈-၂၀၁၉",
-        "name_burmese": "ပြည်သူ့ရှေ့ဆောင်ပါတီ"
-      },
-      "type": "party",
-      "id": "122"
+    "type": "party",
+    "id": "116"
+  },
+  {
+    "attributes": {
+      "member_count": "ဦးမြင့်မောင်ထွန်း ပါ (၁၉) ဦး",
+      "leaders_and_chairmen": [
+        "ဒေါက်တာသက်သက်ခိုင်၊ ဦးစောဟန်အေး ၊ (ထွေ/မှူး)"
+      ],
+      "establishment_approval_date": "၈-၈-၂၀၁၉",
+      "name_english": "People's Pioneer Party",
+      "registered_number": 122,
+      "region": "ပြည်ထောင်စုတစ်ဝန်းလုံး",
+      "seal_image": "https://maepaysoh.org/seals/90.People'sPioneerPartyS.jpg",
+      "contacts": [
+        "၀၉-၅၁၈၃၀၀၆"
+      ],
+      "flag_image": "https://maepaysoh.org/flags/90.People'sPioneerPartyF.jpg",
+      "abbreviation": null,
+      "headquarter_address": "အမှတ်(၆၃)၊ လသာအောက်လမ်း၊ (၃)ရပ်ကွက်၊ လသာမြို့နယ်၊ရန်ကုန်တိုင်းဒေသကြီး။",
+      "establishment_application_date": null,
+      "policy": "https://uec.gov.mm/show_data_content.php?name=_122_%20People_s%20Pioneer%20Party%20_Organization%20Set-up_.pdf&type=page_multiple_photo&code=195&sno=1046&token=21f1a039f4e9e7d237f6623a29531680b2de4270d461614726c5fd05f1f2ff05f65f41b4e58849f06082b55afe3c4f870c8229bc1443e62e9c99edb75d15fe84",
+      "registration_approved_date": "၂၃-၁၀-၂၀၁၉",
+      "registration_application_date": "၁၆-၈-၂၀၁၉",
+      "name_burmese": "ပြည်သူ့ရှေ့ဆောင်ပါတီ"
     },
-    {
-      "attributes": {
-        "member_count": "ဦးအောင်ကြည်ဝင်း ပါ \n(၁၈) ဦး",
-        "leaders_and_chairmen": [
-          "ဦးအောင်ကြည်ဝင်း၊ ဦးထွန်းလှ (ခ) ဦးတိုးရ"
-        ],
-        "establishment_approval_date": "၁၀-၁၀-၂၀၁၉",
-        "name_english": "Inn National League Party",
-        "registered_number": 124,
-        "region": "ရှမ်းပြည်နယ်အတွင်း",
-        "seal_image": "https://maepaysoh.org/seals/92.InnNationalLeaguePartyS.jpg",
-        "contacts": [
-          "၀၉-၇၉၄၂၅၅၅၉၅"
-        ],
-        "flag_image": "https://maepaysoh.org/flags/92.InnNationalLeaguePartyF.jpg",
-        "abbreviation": null,
-        "headquarter_address": "ရုံးကြီးလမ်း၊ တိတ်နန်းတံတားအနီး၊ ကံသာရပ်၊ ညောင်ရွှေမြို့၊ ရှမ်းပြည်နယ် (တောင်ပိုင်း)။",
-        "establishment_application_date": null,
-        "policy": "https://uec.gov.mm/show_data_content.php?name=INLP_Organization%20Set-up_reduce.pdf&type=page_multiple_photo&code=197&sno=6447&token=2a7b918eaa3e37bd320527bbc2674273f5da93bbd00d7c77b2bc422b7498d7641c8983d9cf3b374f35936b5513aa0ad6ddf56d87c55f3f05c9a6816741cad542",
-        "registration_approved_date": "၁၇-၁၂-၂၀၁၉",
-        "registration_application_date": "၄-၁၁-၂၀၁၉",
-        "name_burmese": "အင်းအမျိုးသားအဖွဲ့ချုပ်ပါတီ"
-      },
-      "type": "party",
-      "id": "124"
+    "type": "party",
+    "id": "122"
+  },
+  {
+    "attributes": {
+      "member_count": "ဦးအောင်ကြည်ဝင်း ပါ (၁၈) ဦး",
+      "leaders_and_chairmen": [
+        "ဦးအောင်ကြည်ဝင်း၊ ဦးထွန်းလှ (ခ) ဦးတိုးရ"
+      ],
+      "establishment_approval_date": "၁၀-၁၀-၂၀၁၉",
+      "name_english": "Inn National League Party",
+      "registered_number": 124,
+      "region": "ရှမ်းပြည်နယ်အတွင်း",
+      "seal_image": "https://maepaysoh.org/seals/92.InnNationalLeaguePartyS.jpg",
+      "contacts": [
+        "၀၉-၇၉၄၂၅၅၅၉၅"
+      ],
+      "flag_image": "https://maepaysoh.org/flags/92.InnNationalLeaguePartyF.jpg",
+      "abbreviation": null,
+      "headquarter_address": "ရုံးကြီးလမ်း၊ တိတ်နန်းတံတားအနီး၊ ကံသာရပ်၊ ညောင်ရွှေမြို့၊ ရှမ်းပြည်နယ် (တောင်ပိုင်း)။",
+      "establishment_application_date": null,
+      "policy": "https://uec.gov.mm/show_data_content.php?name=INLP_Organization%20Set-up_reduce.pdf&type=page_multiple_photo&code=197&sno=6447&token=2a7b918eaa3e37bd320527bbc2674273f5da93bbd00d7c77b2bc422b7498d7641c8983d9cf3b374f35936b5513aa0ad6ddf56d87c55f3f05c9a6816741cad542",
+      "registration_approved_date": "၁၇-၁၂-၂၀၁၉",
+      "registration_application_date": "၄-၁၁-၂၀၁၉",
+      "name_burmese": "အင်းအမျိုးသားအဖွဲ့ချုပ်ပါတီ"
     },
-    {
-      "attributes": {
-        "member_count": "ဦးဆိုင်းခွမ် ပါ\n(၁၈) ဦး",
-        "leaders_and_chairmen": [],
-        "establishment_approval_date": "၂၀-၁၁-၂၀၁၉",
-        "name_english": "Kachin National Party",
-        "registered_number": 125,
-        "region": "ရှမ်းပြည်နယ်အတွင်း",
-        "seal_image": "https://maepaysoh.org/seals/93.KachinNationalPartyS.jpg",
-        "contacts": [
-          "၀၉-၄၀၃၇၀၆၄၇၆"
-        ],
-        "flag_image": "https://maepaysoh.org/flags/93.KachinNationalPartyF.jpg",
-        "abbreviation": null,
-        "headquarter_address": "အိမ်အမှတ်(၁၈၈)၊ နယ်မြေ(၇)၊ အေးချမ်းသာယာလမ်းသွယ်(၂)၊ ရပ်ကွက်(၁)၊ လားရှိုးမြို့၊ ရှမ်းပြည်နယ်(မြောက်ပိုင်း)။",
-        "establishment_application_date": null,
-        "policy": "https://uec.gov.mm/show_data_content.php?name=KNP%20_Organization%20Set-up__.pdf&type=page_multiple_photo&code=198&sno=3654&token=7269961537f2582e89e41fb9ff7a1ba214452beafeff2ebc23ab4e32c531eb0b6c1369d36357dcf44641e51a40e07f616416c7e6219f57ee0cfd2bb73e7db20c",
-        "registration_approved_date": "၃-၂-၂၀၂၀",
-        "registration_application_date": "၁၇-၁၂-၂၀၁၉",
-        "name_burmese": "ကချင်အမျိုးသားပါတီ"
-      },
-      "type": "party",
-      "id": "125"
+    "type": "party",
+    "id": "124"
+  },
+  {
+    "attributes": {
+      "member_count": "ဦးဆိုင်းခွမ် ပါ(၁၈) ဦး",
+      "leaders_and_chairmen": [],
+      "establishment_approval_date": "၂၀-၁၁-၂၀၁၉",
+      "name_english": "Kachin National Party",
+      "registered_number": 125,
+      "region": "ရှမ်းပြည်နယ်အတွင်း",
+      "seal_image": "https://maepaysoh.org/seals/93.KachinNationalPartyS.jpg",
+      "contacts": [
+        "၀၉-၄၀၃၇၀၆၄၇၆"
+      ],
+      "flag_image": "https://maepaysoh.org/flags/93.KachinNationalPartyF.jpg",
+      "abbreviation": null,
+      "headquarter_address": "အိမ်အမှတ်(၁၈၈)၊ နယ်မြေ(၇)၊ အေးချမ်းသာယာလမ်းသွယ်(၂)၊ ရပ်ကွက်(၁)၊ လားရှိုးမြို့၊ ရှမ်းပြည်နယ်(မြောက်ပိုင်း)။",
+      "establishment_application_date": null,
+      "policy": "https://uec.gov.mm/show_data_content.php?name=KNP%20_Organization%20Set-up__.pdf&type=page_multiple_photo&code=198&sno=3654&token=7269961537f2582e89e41fb9ff7a1ba214452beafeff2ebc23ab4e32c531eb0b6c1369d36357dcf44641e51a40e07f616416c7e6219f57ee0cfd2bb73e7db20c",
+      "registration_approved_date": "၃-၂-၂၀၂၀",
+      "registration_application_date": "၁၇-၁၂-၂၀၁၉",
+      "name_burmese": "ကချင်အမျိုးသားပါတီ"
     },
-    {
-      "attributes": {
-        "member_count": "ဦးစောဖီးလစ် ပါ\n(၁၅) ဦး",
-        "leaders_and_chairmen": [],
-        "establishment_approval_date": "၂၀-၂-၂၀၂၀",
-        "name_english": "Wa National Party",
-        "registered_number": 128,
-        "region": "ရှမ်းပြည်နယ်အတွင်း",
-        "seal_image": "https://maepaysoh.org/seals/95.WANATIONALPARTYS.jpg",
-        "contacts": [
-          "၀၉-၅၂၆၁၄၀၁",
-          "၀၉-၄၀၃၇၄၂၅၄၀"
-        ],
-        "flag_image": "https://maepaysoh.org/flags/95.WANATIONALPARTYF.jpg",
-        "abbreviation": null,
-        "headquarter_address": "အမှတ် (၃၉)၊ ပန်လုံလမ်း၊ ပန်လုံလမ်းရပ်ကွက်၊ ဟိုပန်မြို့၊ \n'ဝ'ကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ရတိုင်း",
-        "establishment_application_date": null,
-        "policy": "https://uec.gov.mm/show_data_content.php?name=1.pdf&type=page_multiple_photo&code=201&sno=8943&token=99faa0cb13115f6ad8ed115dbe0283ab26b086fe6c95cd1975f2f0a104b30fcf61847aa0ab7559d2690756633a11d816ec0d39afca9767610c062650d79f4d7f",
-        "registration_approved_date": "၂-၄-၂၀၂၀",
-        "registration_application_date": "၄-၃-၂၀၂၀",
-        "name_burmese": "'ဝ'အမျိုးသားပါတီ"
-      },
-      "type": "party",
-      "id": "128"
-    }
-  ]
+    "type": "party",
+    "id": "125"
+  },
+  {
+    "attributes": {
+      "member_count": "ဦးစောဖီးလစ် ပါ(၁၅) ဦး",
+      "leaders_and_chairmen": [],
+      "establishment_approval_date": "၂၀-၂-၂၀၂၀",
+      "name_english": "Wa National Party",
+      "registered_number": 128,
+      "region": "ရှမ်းပြည်နယ်အတွင်း",
+      "seal_image": "https://maepaysoh.org/seals/95.WANATIONALPARTYS.jpg",
+      "contacts": [
+        "၀၉-၅၂၆၁၄၀၁",
+        "၀၉-၄၀၃၇၄၂၅၄၀"
+      ],
+      "flag_image": "https://maepaysoh.org/flags/95.WANATIONALPARTYF.jpg",
+      "abbreviation": null,
+      "headquarter_address": "အမှတ် (၃၉)၊ ပန်လုံလမ်း၊ ပန်လုံလမ်းရပ်ကွက်၊ ဟိုပန်မြို့၊ 'ဝ'ကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ရတိုင်း",
+      "establishment_application_date": null,
+      "policy": "https://uec.gov.mm/show_data_content.php?name=1.pdf&type=page_multiple_photo&code=201&sno=8943&token=99faa0cb13115f6ad8ed115dbe0283ab26b086fe6c95cd1975f2f0a104b30fcf61847aa0ab7559d2690756633a11d816ec0d39afca9767610c062650d79f4d7f",
+      "registration_approved_date": "၂-၄-၂၀၂၀",
+      "registration_application_date": "၄-၃-၂၀၂၀",
+      "name_burmese": "'ဝ'အမျိုးသားပါတီ"
+    },
+    "type": "party",
+    "id": "128"
+  }
+]
 }
