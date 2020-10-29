@@ -72,12 +72,14 @@ def _parties_attributes_filter(attr_name, filePath):
     for d in parties_attributes:
         attr_value.append(d[attr_name])
 
-    [filterDuplicate.append(x) for x in attr_value if x not in filterDuplicate]
+    saveFilterToText(attr_name, filePath, attr_value)
 
-    if not filterDuplicate:
-        print("Empty")
-    else:
-        saveFilterToText(attr_name, filePath, filterDuplicate)
+    # [filterDuplicate.append(x) for x in attr_value if x not in filterDuplicate]
+
+    # if not filterDuplicate:
+    #     print("Empty")
+    # else:
+    #     saveFilterToText(attr_name, filePath, filterDuplicate)
 
 def _parties_filter(attr_name, filePath):
 
@@ -114,6 +116,27 @@ def _constituency_filter(attr_name, filePath):
         saveFilterToText("constituency_"+attr_name, filePath, filterDuplicate)
 
 
+def _custom_constituency_filter():
+
+    # open and read json file
+    shanStateRegionCandidate()
+
+    attr_value = []
+    filterDuplicate = []
+
+    for d in candidates_attributes:
+        attr = d["constituency"]
+        for i in attr:
+            attr_value.append([attr["id"], attr['attributes']['name'], attr['attributes']['township'], attr['attributes']['house']])
+
+    [filterDuplicate.append(x) for x in attr_value if x not in filterDuplicate]
+
+    if not filterDuplicate:
+        print("Empty")
+    else:
+        saveFilterToText("constituency_custom", "custom", filterDuplicate)
+
+
 def saveFilterToText(fileName, fileDir, value):
 
     dirPath = "forTranslate/" + fileDir
@@ -142,6 +165,7 @@ def saveFilterToText(fileName, fileDir, value):
 # _constituency_filter("name", 'constituency')
 # _constituency_filter("state_region", 'constituency')
 # _constituency_filter("township", 'constituency')
+# _constituency_filter("house", 'constituency')
 
 # _parties_attributes_filter('member_count', 'parties')
 # _parties_attributes_filter('leaders_and_chairmen', 'parties')
@@ -151,3 +175,5 @@ def saveFilterToText(fileName, fileDir, value):
 # _parties_attributes_filter('abbreviation', 'parties')
 # _parties_attributes_filter('flag_image', 'parties')
 # _parties_filter('id', 'parties')
+
+_custom_constituency_filter()
