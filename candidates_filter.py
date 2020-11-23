@@ -33,7 +33,7 @@ def _shanRegionPartiesCandidates_filter():
 
 def _shanStateRegionCandidates_filter():
     count = 0
-    with open('shanRegionCandidates.json') as jFile:
+    with open('candidates.json') as jFile:
         data = json.load(jFile)
 
         for d in data['data']:
@@ -44,17 +44,17 @@ def _shanStateRegionCandidates_filter():
             if constit != None:
                 state_region = constit['attributes']['state_region']
 
-                if state_region == 'ရှမ်းပြည်နယ်':
-                    # shanStateregionCandy.append(d)
-                    count = count + 1
+                if state_region == "ရှမ်းပြည်နယ်":
+                    shanStateregionCandy.append(d)
+                    # count = count + 1
     print('finished ...')
     print(count)
 
 
-'''
-    with open('shan_state_regionCandidates.json', 'w') as write_file:
+
+    with open('shan_state_region_Candidates(1017).json', 'w') as write_file:
         json.dump({"data": shanStateregionCandy}, write_file)
-'''
+
 
 
 _shanStateRegionCandidates_filter()

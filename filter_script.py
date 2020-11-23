@@ -27,6 +27,56 @@ def shanStateRegionParty():
             parties_attributes.append(d['attributes'])
             parties.append(d)
 
+def _condidates_id_filter():
+    with open('shan_state_regionCandidates.json') as jFile:
+
+        data = json.load(jFile)
+        candidates_id = []
+
+        for d in data['data']:
+            candidates_id.append(d['id'])
+
+        if not candidates_id:
+            print("Candidates Id is Empty")
+        else:
+            saveFilterToText("candidates_id", "candidates", candidates_id)
+
+def _condidates_constituID_filter():
+
+    # open and read json file
+    shanStateRegionCandidate()
+
+    attr_value = []
+    filterDuplicate = []
+
+    for d in candidates_attributes:
+        attr = d["constituency"]
+        attr_value.append(attr["id"])
+
+    # [filterDuplicate.append(x) for x in attr_value if x not in filterDuplicate]
+
+    if not attr_value:
+        print("Empty")
+    else:
+        saveFilterToText("constituency_id", "candidates", attr_value)
+
+def _condidates_partyID_filter():
+
+    # open and read json file
+    shanStateRegionCandidate()
+
+    attr_value = []
+
+    for d in candidates_attributes:
+        attr = d["party"]
+        attr_value.append(attr["id"])
+
+    # [filterDuplicate.append(x) for x in attr_value if x not in filterDuplicate]
+
+    if not attr_value:
+        print("Empty")
+    else:
+        saveFilterToText("party_id", "candidates", attr_value)
 
 def _candidates_attributes_filter(attr_name, filePath):
 
@@ -108,12 +158,12 @@ def _constituency_filter(attr_name, filePath):
         attr = d["constituency"]
         attr_value.append(attr["attributes"][attr_name])
 
-    [filterDuplicate.append(x) for x in attr_value if x not in filterDuplicate]
+    # [filterDuplicate.append(x) for x in attr_value if x not in filterDuplicate]
 
-    if not filterDuplicate:
+    if not attr_value:
         print("Empty")
     else:
-        saveFilterToText("constituency_"+attr_name, filePath, filterDuplicate)
+        saveFilterToText("constituency_"+attr_name, filePath, attr_value)
 
 
 def _custom_constituency_filter():
@@ -176,4 +226,13 @@ def saveFilterToText(fileName, fileDir, value):
 # _parties_attributes_filter('flag_image', 'parties')
 # _parties_filter('id', 'parties')
 
-_custom_constituency_filter()
+# _custom_constituency_filter()
+
+# _condidates_id_filter()
+# _candidates_attributes_filter('name', 'candidates')
+# _candidates_attributes_filter('image', 'candidates')
+
+_condidates_constituID_filter()
+# _constituency_filter("township", 'candidates')
+# _constituency_filter("house", 'candidates')
+_condidates_partyID_filter()

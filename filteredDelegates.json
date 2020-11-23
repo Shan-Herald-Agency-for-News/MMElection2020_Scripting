@@ -1,0 +1,1426 @@
+{
+    "data": [
+        {
+            "id": "841",
+            "name": "ဦးကျော်စိန်",
+            "image": "https://maepaysoh.org/candidate-profile/2020- AMT - U Kyaw Sein-1.jpg",
+            "partyId": "32",
+            "constituencyId": "2817",
+            "house": "amyotha",
+            "township": "None"
+        },
+        {
+            "id": "850",
+            "name": "စိုင်းဝန်းဆိုင်",
+            "image": "https://maepaysoh.org/candidate-profile/2020- AMT - Sai Won Sai-1.jpg",
+            "partyId": "47",
+            "constituencyId": "2819",
+            "house": "amyotha",
+            "township": "None"
+        },
+        {
+            "id": "861",
+            "name": "ဦးဝီလ်ဆင်မိုး",
+            "image": "https://maepaysoh.org/candidate-profile/SS.png",
+            "partyId": "32",
+            "constituencyId": "2820",
+            "house": "amyotha",
+            "township": "None"
+        },
+        {
+            "id": "872",
+            "name": "ဦးအောင်ကိုကို",
+            "image": "https://maepaysoh.org/candidate-profile/UAungKoKo-Shan AMT-4.jpg",
+            "partyId": "47",
+            "constituencyId": "2821",
+            "house": "amyotha",
+            "township": "None"
+        },
+        {
+            "id": "878",
+            "name": "ဦးအိုက်မွန်း",
+            "image": "https://maepaysoh.org/candidate-profile/U Eike Mom.jpg",
+            "partyId": "12",
+            "constituencyId": "2824",
+            "house": "amyotha",
+            "township": "None"
+        },
+        {
+            "id": "887",
+            "name": "နန်းမွန်းစိန်",
+            "image": "https://maepaysoh.org/candidate-profile/Nann Moon Sein.jpg",
+            "partyId": "56",
+            "constituencyId": "2826",
+            "house": "amyotha",
+            "township": "None"
+        },
+        {
+            "id": "895",
+            "name": "စိုင်းဝင်းအေး(ခ)စိုင်းထွန်းအေး",
+            "image": "https://maepaysoh.org/candidate-profile/Sai Win Aye.jpg",
+            "partyId": "56",
+            "constituencyId": "2827",
+            "house": "amyotha",
+            "township": "None"
+        },
+        {
+            "id": "899",
+            "name": "ဦးမောင်ခိုင်(ခ)ဦးအုန်းခိုင်",
+            "image": "https://maepaysoh.org/candidate-profile/2020-Amt-UMaungKhaing(K)UOhnKhaing-1.jpg",
+            "partyId": "12",
+            "constituencyId": "2818",
+            "house": "amyotha",
+            "township": "None"
+        },
+        {
+            "id": "905",
+            "name": "ဒေါ်မမလေး",
+            "image": "https://maepaysoh.org/candidate-profile/Amt-DawMaMaLay.jpg",
+            "partyId": "47",
+            "constituencyId": "2822",
+            "house": "amyotha",
+            "township": "None"
+        },
+        {
+            "id": "909",
+            "name": "ခွန်အောင်ကျော်",
+            "image": "https://maepaysoh.org/candidate-profile/2020-Amt-KunAungKyaw-1.jpg",
+            "partyId": "5",
+            "constituencyId": "2823",
+            "house": "amyotha",
+            "township": "None"
+        },
+        {
+            "id": "917",
+            "name": "ဦးအိုက်နပ်",
+            "image": "https://maepaysoh.org/candidate-profile/Amt-UEikeLet.jpg",
+            "partyId": "32",
+            "constituencyId": "2825",
+            "house": "amyotha",
+            "township": "None"
+        },
+        {
+            "id": "920",
+            "name": "ဦးအောင်သန်းထွဋ်",
+            "image": "https://maepaysoh.org/candidate-profile/2020-Amt-UAungThanHtut-1.jpg",
+            "partyId": "32",
+            "constituencyId": "2828",
+            "house": "amyotha",
+            "township": "None"
+        },
+        {
+            "id": "2472",
+            "name": "စိုင်းအောင်မြင့်(ခ)စိုင်းကူး",
+            "image": "https://maepaysoh.org/candidate-profile/Sai Aung Myint.jpg",
+            "partyId": "56",
+            "constituencyId": "2592",
+            "house": "pyithu",
+            "township": "ကျောက်မဲမြို့နယ်"
+        },
+        {
+            "id": "2478",
+            "name": "နန်းစမ်းစမ်းအေး",
+            "image": "https://maepaysoh.org/candidate-profile/Nan San San Aye.jpg",
+            "partyId": "56",
+            "constituencyId": "2593",
+            "house": "pyithu",
+            "township": "သီပေါမြို့နယ်"
+        },
+        {
+            "id": "2484",
+            "name": "ဦးထွန်းအောင်(ခ)ဦးထွန်းထွန်းဟိန်",
+            "image": "https://maepaysoh.org/candidate-profile/U Htun Aung.jpg",
+            "partyId": "47",
+            "constituencyId": "2594",
+            "house": "pyithu",
+            "township": "နောင်ချိုမြို့နယ်"
+        },
+        {
+            "id": "2491",
+            "name": "နန်းခမ်းအေး",
+            "image": "https://maepaysoh.org/candidate-profile/Nann Kham Aye.jpg",
+            "partyId": "56",
+            "constituencyId": "2595",
+            "house": "pyithu",
+            "township": "နမ္မတူမြို့နယ်"
+        },
+        {
+            "id": "2500",
+            "name": "ဦးလမင်းထွန်း(ခ)အဖြိုး",
+            "image": "https://maepaysoh.org/candidate-profile/Pyi Thu-ULaMinTun.jpg",
+            "partyId": "12",
+            "constituencyId": "2596",
+            "house": "pyithu",
+            "township": "နမ့်ဆန်မြို့နယ်"
+        },
+        {
+            "id": "2503",
+            "name": "ဦးအိုက်ခ",
+            "image": "https://maepaysoh.org/candidate-profile/UEikeKha.jpg",
+            "partyId": "12",
+            "constituencyId": "2597",
+            "house": "pyithu",
+            "township": "မန်တုံမြို့နယ်"
+        },
+        {
+            "id": "2507",
+            "name": "ဦးစိုင်းဝန်း",
+            "image": "https://maepaysoh.org/candidate-profile/U Sai Won.png",
+            "partyId": "47",
+            "constituencyId": "2598",
+            "house": "pyithu",
+            "township": "ကျိုင်းတုံမြို့နယ်"
+        },
+        {
+            "id": "2512",
+            "name": "စိုင်းဝန်းဆမ်",
+            "image": "https://maepaysoh.org/candidate-profile/2020- PYI - Sai Wom Sam-1.jpg",
+            "partyId": "32",
+            "constituencyId": "2599",
+            "house": "pyithu",
+            "township": "မိုင်းခတ်မြို့နယ်"
+        },
+        {
+            "id": "2516",
+            "name": "စိုင်းဆမ်",
+            "image": "https://maepaysoh.org/candidate-profile/2020- PYI - U Sai Sam-5.jpg",
+            "partyId": "32",
+            "constituencyId": "2600",
+            "house": "pyithu",
+            "township": "မိုင်းယန်းမြို့နယ်"
+        },
+        {
+            "id": "2524",
+            "name": "ဦးစိုင်းလောင်း",
+            "image": "https://maepaysoh.org/candidate-profile/U Sai Laung.jpg",
+            "partyId": "32",
+            "constituencyId": "2602",
+            "house": "pyithu",
+            "township": "မိုင်းပျဉ်းမြို့နယ်"
+        },
+        {
+            "id": "2534",
+            "name": "ဦးဝင်းစွမ်",
+            "image": "https://maepaysoh.org/candidate-profile/U Win Swan.jpg",
+            "partyId": "47",
+            "constituencyId": "2603",
+            "house": "pyithu",
+            "township": "တာချီလိတ်မြို့နယ်"
+        },
+        {
+            "id": "2540",
+            "name": "ဦးလင်းဇော်ထွန်း",
+            "image": "https://maepaysoh.org/candidate-profile/U Lin Zaw Tun.png",
+            "partyId": "32",
+            "constituencyId": "2604",
+            "house": "pyithu",
+            "township": "မိုင်းဖြတ်မြို့နယ်"
+        },
+        {
+            "id": "2543",
+            "name": "ဦးစိုင်းထွန်းအောင်",
+            "image": "https://maepaysoh.org/candidate-profile/2020-Pyi-USaiHtunAung.jpg",
+            "partyId": "47",
+            "constituencyId": "2605",
+            "house": "pyithu",
+            "township": "မိုင်းယောင်းမြို့နယ်"
+        },
+        {
+            "id": "2557",
+            "name": "ဦးအုန်းဝင်း",
+            "image": "https://maepaysoh.org/candidate-profile/2020- PYI - U Ohn Win-1.jpg",
+            "partyId": "47",
+            "constituencyId": "2606",
+            "house": "pyithu",
+            "township": "တောင်ကြီးမြို့နယ်"
+        },
+        {
+            "id": "2563",
+            "name": "ဦးဝင်းမြင့်ဦး(ခ)ဦးနေမျိုး",
+            "image": "https://maepaysoh.org/candidate-profile/Pyi Thu-U Win Myint Oo@U Nay Myo.jpg",
+            "partyId": "47",
+            "constituencyId": "2607",
+            "house": "pyithu",
+            "township": "ညောင်ရွှေမြို့နယ်"
+        },
+        {
+            "id": "2567",
+            "name": "ဒေါ်ပြုံးကေသီနိုင်",
+            "image": "https://maepaysoh.org/candidate-profile/Daw Pyon Kay Thi Naing.jpg",
+            "partyId": "47",
+            "constituencyId": "2608",
+            "house": "pyithu",
+            "township": "ကလောမြို့နယ်"
+        },
+        {
+            "id": "2574",
+            "name": "ဒေါက်တာခင်မျိုးသွယ်",
+            "image": "https://maepaysoh.org/candidate-profile/2020- PYI - Dr Khin Myo Thwe-2.jpg",
+            "partyId": "47",
+            "constituencyId": "2609",
+            "house": "pyithu",
+            "township": "ရပ်စောက်မြို့နယ်"
+        },
+        {
+            "id": "2582",
+            "name": "ဦးပီတယ်အောင်",
+            "image": "https://maepaysoh.org/candidate-profile/U P Tal Aung.jpg",
+            "partyId": "47",
+            "constituencyId": "2610",
+            "house": "pyithu",
+            "township": "ဖယ်ခုံမြို့နယ်"
+        },
+        {
+            "id": "2591",
+            "name": "ဦးအောင်စိုးမင်း",
+            "image": "https://maepaysoh.org/candidate-profile/U Aung Soe Min.jpg",
+            "partyId": "47",
+            "constituencyId": "2611",
+            "house": "pyithu",
+            "township": "ရွာငံမြို့နယ်"
+        },
+        {
+            "id": "2594",
+            "name": "ဦးစိုးမြင့်",
+            "image": "https://maepaysoh.org/candidate-profile/2020-Pyi-USoeMyint.jpg",
+            "partyId": "47",
+            "constituencyId": "2612",
+            "house": "pyithu",
+            "township": "ပင်းတယမြို့နယ်"
+        },
+        {
+            "id": "2603",
+            "name": "နန်းခမ်းဗွာ",
+            "image": "https://maepaysoh.org/candidate-profile/2020- PYI - Nan Kham Bwar.jpg",
+            "partyId": "5",
+            "constituencyId": "2613",
+            "house": "pyithu",
+            "township": "ဟိုပုံးမြို့နယ်"
+        },
+        {
+            "id": "2606",
+            "name": "ခွန်ထိုင်း",
+            "image": "https://maepaysoh.org/candidate-profile/2020- PYI - Khun Htine-1.jpg",
+            "partyId": "5",
+            "constituencyId": "2614",
+            "house": "pyithu",
+            "township": "ဆီဆိုင်မြို့နယ်"
+        },
+        {
+            "id": "2611",
+            "name": "ခွန်လှဆန်း",
+            "image": "https://maepaysoh.org/candidate-profile/PYI-KhunHlaSan.jpg",
+            "partyId": "5",
+            "constituencyId": "2615",
+            "house": "pyithu",
+            "township": "ပင်လောင်းမြို့နယ်"
+        },
+        {
+            "id": "2624",
+            "name": "ဦးထွန်းကျော်",
+            "image": "https://maepaysoh.org/candidate-profile/2020- PYI - U Tun Kyaw-1.jpg",
+            "partyId": "12",
+            "constituencyId": "2617",
+            "house": "pyithu",
+            "township": "နမ့်ခမ်းမြို့နယ်"
+        },
+        {
+            "id": "2632",
+            "name": "နန်းထွေးမှုံ",
+            "image": "https://maepaysoh.org/candidate-profile/Pyi Thu-NanHtweHmone.jpg",
+            "partyId": "56",
+            "constituencyId": "2618",
+            "house": "pyithu",
+            "township": "မူဆယ်မြို့နယ်"
+        },
+        {
+            "id": "2638",
+            "name": "ဦးအောင်မြင့်ရှိန်",
+            "image": "https://maepaysoh.org/candidate-profile/PYI-U AgMyintShein.jpg",
+            "partyId": "47",
+            "constituencyId": "2619",
+            "house": "pyithu",
+            "township": "မဘိမ်းမြို့နယ်"
+        },
+        {
+            "id": "2644",
+            "name": "ဦးတိုးသောင်",
+            "image": "https://maepaysoh.org/candidate-profile/U Toe Thaung.jpg",
+            "partyId": "47",
+            "constituencyId": "2620",
+            "house": "pyithu",
+            "township": "မိုးမိတ်မြို့နယ်"
+        },
+        {
+            "id": "2646",
+            "name": "ဦးတင်အေး",
+            "image": "https://maepaysoh.org/candidate-profile/2020- PYU Tin Aye-1.jpg",
+            "partyId": "32",
+            "constituencyId": "2621",
+            "house": "pyithu",
+            "township": "မက်မန်းမြို့နယ်"
+        },
+        {
+            "id": "2648",
+            "name": "စိုင်းခတ္တိယ",
+            "image": "https://maepaysoh.org/candidate-profile/2020- PYI - Sai Khattiya.jpg",
+            "partyId": "32",
+            "constituencyId": "2624",
+            "house": "pyithu",
+            "township": "မိုင်းဆတ်မြို့နယ်"
+        },
+        {
+            "id": "2656",
+            "name": "ဦးမျိုးညွန့်",
+            "image": "https://maepaysoh.org/candidate-profile/2020- PYI - U Myo Nyunt-4.jpg",
+            "partyId": "32",
+            "constituencyId": "2625",
+            "house": "pyithu",
+            "township": "မိုင်းတုံမြို့နယ်"
+        },
+        {
+            "id": "2660",
+            "name": "ဦးစိုင်းဖိုးဟန်",
+            "image": "https://maepaysoh.org/candidate-profile/U Sai Pho Han.jpg",
+            "partyId": "56",
+            "constituencyId": "2626",
+            "house": "pyithu",
+            "township": "တန့်ယန်းမြို့နယ်"
+        },
+        {
+            "id": "2665",
+            "name": "စိုင်းသီဟကျော်",
+            "image": "https://maepaysoh.org/candidate-profile/Sai Thiha Khaw.jpg",
+            "partyId": "56",
+            "constituencyId": "2627",
+            "house": "pyithu",
+            "township": "မိုင်းရယ်မြို့နယ်"
+        },
+        {
+            "id": "2670",
+            "name": "ဦးစိုင်းရင်ထွန်း",
+            "image": "https://maepaysoh.org/candidate-profile/2020- PYI - U Sai Yin Tun-1.jpg",
+            "partyId": "47",
+            "constituencyId": "2628",
+            "house": "pyithu",
+            "township": "လားရှိုးမြို့နယ်"
+        },
+        {
+            "id": "2679",
+            "name": "စိုင်းကျော်မိုး",
+            "image": "https://maepaysoh.org/candidate-profile/2020- PYI - Sai Kyaw Moe-1.jpg",
+            "partyId": "56",
+            "constituencyId": "2629",
+            "house": "pyithu",
+            "township": "သိန္နီမြို့နယ်"
+        },
+        {
+            "id": "2687",
+            "name": "ဒေါက်တာမျိုးထွန်း",
+            "image": "https://maepaysoh.org/candidate-profile/PTI-Dr.Myo Htun.jpg",
+            "partyId": "32",
+            "constituencyId": "2630",
+            "house": "pyithu",
+            "township": "ကွမ်းလုံမြို့နယ်"
+        },
+        {
+            "id": "2691",
+            "name": "နန်းရွှေညွန့်",
+            "image": "https://maepaysoh.org/candidate-profile/Pyi Thu -NanShweNyunt.jpg",
+            "partyId": "56",
+            "constituencyId": "2631",
+            "house": "pyithu",
+            "township": "မိုးနဲမြို့နယ်"
+        },
+        {
+            "id": "2696",
+            "name": "ဦးစိုင်းကျော်မိုး",
+            "image": "https://maepaysoh.org/candidate-profile/U Sai Kyaw Moe.jpg",
+            "partyId": "32",
+            "constituencyId": "2632",
+            "house": "pyithu",
+            "township": "မိုင်းပန်မြို့နယ်"
+        },
+        {
+            "id": "2699",
+            "name": "ဦးစိုင်းငေါင်းဆိုင်ဟိန်း",
+            "image": "https://maepaysoh.org/candidate-profile/2020- PYI - U Sai Ngung Sai Hein-5.jpg",
+            "partyId": "32",
+            "constituencyId": "2633",
+            "house": "pyithu",
+            "township": "မောက်မယ်မြို့နယ်"
+        },
+        {
+            "id": "2706",
+            "name": "ဦးစိုင်းအောင်ခင်",
+            "image": "https://maepaysoh.org/candidate-profile/2020-PyiThu-SaiAungKhin-1.jpg",
+            "partyId": "56",
+            "constituencyId": "2634",
+            "house": "pyithu",
+            "township": "လင်းခေးမြို့နယ်"
+        },
+        {
+            "id": "2711",
+            "name": "ဦးဝေစန်း",
+            "image": "https://maepaysoh.org/candidate-profile/2020-Pyi-UWaiSan.jpg",
+            "partyId": "32",
+            "constituencyId": "2635",
+            "house": "pyithu",
+            "township": "ကုန်းကြမ်းမြို့နယ်"
+        },
+        {
+            "id": "2712",
+            "name": "ဦးကျောက်တယ်ချန်",
+            "image": "https://maepaysoh.org/candidate-profile/2020-Pyi-UKyaukTalChan.jpg",
+            "partyId": "32",
+            "constituencyId": "2636",
+            "house": "pyithu",
+            "township": "လောက်ကိုင်မြို့နယ်"
+        },
+        {
+            "id": "2716",
+            "name": "စိုင်းအောင်ကျော်",
+            "image": "https://maepaysoh.org/candidate-profile/PYT-Sai Aung Kyaw .jpg",
+            "partyId": "56",
+            "constituencyId": "2637",
+            "house": "pyithu",
+            "township": "ကျေးသီးမြို့နယ်"
+        },
+        {
+            "id": "2722",
+            "name": "နန်းခင်စော",
+            "image": "https://maepaysoh.org/candidate-profile/PYI-NanKhinSaw.jpg",
+            "partyId": "56",
+            "constituencyId": "2638",
+            "house": "pyithu",
+            "township": "ကွန်ဟိန်းမြို့နယ်"
+        },
+        {
+            "id": "2727",
+            "name": "ဦးဌေးလွင်(ခ)ဦးဒီလုံး",
+            "image": "https://maepaysoh.org/candidate-profile/2020-Pyi-UHtayLwin.jpg",
+            "partyId": "32",
+            "constituencyId": "2639",
+            "house": "pyithu",
+            "township": "နမ့်စန်မြို့နယ်"
+        },
+        {
+            "id": "2740",
+            "name": "စိုင်းလင်းမြတ်",
+            "image": "https://maepaysoh.org/candidate-profile/Sai Lynn Myat.jpg",
+            "partyId": "56",
+            "constituencyId": "2641",
+            "house": "pyithu",
+            "township": "မိုင်းရှူးမြို့နယ်"
+        },
+        {
+            "id": "2744",
+            "name": "စိုင်းဥက္ကာ",
+            "image": "https://maepaysoh.org/candidate-profile/Sai Oaker.png",
+            "partyId": "56",
+            "constituencyId": "2642",
+            "house": "pyithu",
+            "township": "လဲချားမြို့နယ်"
+        },
+        {
+            "id": "2748",
+            "name": "ဦးခင်မောင်သီ",
+            "image": "https://maepaysoh.org/candidate-profile/PYI-U KhinMgThi.jpg",
+            "partyId": "32",
+            "constituencyId": "2643",
+            "house": "pyithu",
+            "township": "လွိုင်လင်မြို့နယ်"
+        },
+        {
+            "id": "2756",
+            "name": "ဦးညီပလုပ်",
+            "image": "https://maepaysoh.org/candidate-profile/2020- PYI - U Nyi Palot-1.jpg",
+            "partyId": "128",
+            "constituencyId": "2644",
+            "house": "pyithu",
+            "township": "ဟိုပန်မြို့နယ်"
+        },
+        {
+            "id": "5830",
+            "name": "နန်းအိမွန်အောင်",
+            "image": "https://maepaysoh.org/candidate-profile/2020-RS- Nan Ei Mon Aung-1.jpg",
+            "partyId": "56",
+            "constituencyId": "3323",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "5836",
+            "name": "စိုင်းထွန်းဉာဏ်",
+            "image": "https://maepaysoh.org/candidate-profile/2020-RS- U Sai Tun Nyan-1.jpg",
+            "partyId": "56",
+            "constituencyId": "3324",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "5844",
+            "name": "နန်းဥမ္မာ(ခ)နန်းမွန်းမွန်းပေါင်း",
+            "image": "https://maepaysoh.org/candidate-profile/2020-RS- Nan Ohnmar-1.jpg",
+            "partyId": "56",
+            "constituencyId": "3325",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "5848",
+            "name": "စိုင်းလောဝ်ပိန်း",
+            "image": "https://maepaysoh.org/candidate-profile/2020-RS- Sai Lung  Pain-1.jpg",
+            "partyId": "56",
+            "constituencyId": "3326",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "5859",
+            "name": "ဦးအောင်မြင့်ထွန်း",
+            "image": "https://maepaysoh.org/candidate-profile/U Aung Myint Tun.jpg",
+            "partyId": "47",
+            "constituencyId": "3327",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "5864",
+            "name": "ဒေါက်တာညီညီအောင်",
+            "image": "https://maepaysoh.org/candidate-profile/Dr.NyiNyiAung-NaungCho2-RS.jpg",
+            "partyId": "47",
+            "constituencyId": "3328",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "5875",
+            "name": "ဦးဝင်းလှိုင်(ခ)ဦးမဲတူ",
+            "image": "https://maepaysoh.org/candidate-profile/U Win Hlaing @U Me Tu.jpg",
+            "partyId": "47",
+            "constituencyId": "3329",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "5877",
+            "name": "စိုင်းကျော်ညွန့်",
+            "image": "https://maepaysoh.org/candidate-profile/2020-RS- Sai Kyaw Nyunt-1.jpg",
+            "partyId": "56",
+            "constituencyId": "3330",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "5882",
+            "name": "ဦးဇော်မြင့်(ခ)ဦးကျော်ဦး",
+            "image": "https://maepaysoh.org/candidate-profile/2020-RS-UZawMyint.jpg",
+            "partyId": "12",
+            "constituencyId": "3331",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "5889",
+            "name": "ဦးဝင်းထူး",
+            "image": "https://maepaysoh.org/candidate-profile/2020-RS-UWinHtoo-1.jpg",
+            "partyId": "12",
+            "constituencyId": "3332",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "5892",
+            "name": "ဦးသိန်းဇော်",
+            "image": "https://maepaysoh.org/candidate-profile/2020-RS-UTheinZaw-1.jpg",
+            "partyId": "12",
+            "constituencyId": "3333",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "5894",
+            "name": "မိုင်းနိုင်အောင်မိုး",
+            "image": "https://maepaysoh.org/candidate-profile/Mine Naing Aung Moe.jpg",
+            "partyId": "12",
+            "constituencyId": "3334",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "5898",
+            "name": "ဦးကျော်သီဟ",
+            "image": "https://maepaysoh.org/candidate-profile/2020-RS- U Kyaw Thiha-1.jpg",
+            "partyId": "47",
+            "constituencyId": "3335",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "5909",
+            "name": "ဒေါက်တာဝဏ္ဏစိုး",
+            "image": "https://maepaysoh.org/candidate-profile/Dr.WannaSoe-KyaneTone2-RS.jpg",
+            "partyId": "47",
+            "constituencyId": "3336",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "5914",
+            "name": "ဦးဂျာကျိုး",
+            "image": "https://maepaysoh.org/candidate-profile/U Jar Kyo.jpg",
+            "partyId": "32",
+            "constituencyId": "3337",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "5920",
+            "name": "ဦးဂျေဒူ",
+            "image": "https://maepaysoh.org/candidate-profile/2020-RS-UJayDu-1.jpg",
+            "partyId": "47",
+            "constituencyId": "3338",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "5925",
+            "name": "စိုင်းလှိုင်ခမ်း",
+            "image": "https://maepaysoh.org/candidate-profile/2020-RS-SaiHlaingKham.jpg",
+            "partyId": "32",
+            "constituencyId": "3339",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "5928",
+            "name": "စိုင်းရှဲန်ဝန်း",
+            "image": "https://maepaysoh.org/candidate-profile/Sai Shan Won.jpg",
+            "partyId": "32",
+            "constituencyId": "3340",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "5943",
+            "name": "စိုင်းဆိုင်တွီ",
+            "image": "https://maepaysoh.org/candidate-profile/2020-RS-SaiSaingTwee1.jpg",
+            "partyId": "47",
+            "constituencyId": "3345",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "5950",
+            "name": "ဦးခင်မောင်တင့်",
+            "image": "https://maepaysoh.org/candidate-profile/2020-RS-UKhinMaungTint-1.jpg",
+            "partyId": "47",
+            "constituencyId": "3346",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "5959",
+            "name": "ဦးညွန့်ဝင်း",
+            "image": "https://maepaysoh.org/candidate-profile/2020-RS- U Nyunt Win-1.jpg",
+            "partyId": "32",
+            "constituencyId": "3347",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "5965",
+            "name": "ဦးဖရန်စစ်(စ)ကို",
+            "image": "https://maepaysoh.org/candidate-profile/2020-RS- U Fransis Ko-1.jpg",
+            "partyId": "32",
+            "constituencyId": "3348",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "5974",
+            "name": "အိုက်ခမ်းလှိုင်",
+            "image": "https://maepaysoh.org/candidate-profile/Eike Kham Hlaing.jpg",
+            "partyId": "47",
+            "constituencyId": "3349",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "5975",
+            "name": "စိုင်းရှဲန်တစ်(ပ်)လုံ(ခ)စိုင်းဆိုင်တစ်(ပ်)လုံ",
+            "image": "https://maepaysoh.org/candidate-profile/2020-RS-SaiShalTipLon-1.jpg",
+            "partyId": "47",
+            "constituencyId": "3350",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "5984",
+            "name": "ဦးစိုးညွန့်လွင်",
+            "image": "https://maepaysoh.org/candidate-profile/2020-RS- U Soe Nyunt Lwin-1.jpg",
+            "partyId": "47",
+            "constituencyId": "3351",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "6003",
+            "name": "ဒေါက်တာဒေါ်သန်းငွေ",
+            "image": "https://maepaysoh.org/candidate-profile/Rs-DrDawThanNgwe.jpg",
+            "partyId": "47",
+            "constituencyId": "3352",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "6004",
+            "name": "ဦးခင်မောင်ဝင်း",
+            "image": "https://maepaysoh.org/candidate-profile/Rs-UKhinMgWin.jpg",
+            "partyId": "47",
+            "constituencyId": "3353",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "6018",
+            "name": "ဦးသိန်းဇော်မိုး",
+            "image": "https://maepaysoh.org/candidate-profile/2020-RS-UTheinZawMoe-1.jpg",
+            "partyId": "47",
+            "constituencyId": "3354",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "6023",
+            "name": "ဦးဇော်မင်းလတ်(ခ)ဦးကိုလတ်",
+            "image": "https://maepaysoh.org/candidate-profile/2020-RS- U Zaw Min Latt @ U Zaw Latt-1.jpg",
+            "partyId": "47",
+            "constituencyId": "3355",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "6034",
+            "name": "ဦးသန်းထိုက်",
+            "image": "https://maepaysoh.org/candidate-profile/2020-RS- U Than Htike-1.jpg",
+            "partyId": "47",
+            "constituencyId": "3356",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "6038",
+            "name": "ဒေါက်တာဂျွန်နီ",
+            "image": "https://maepaysoh.org/candidate-profile/Dr Johnny_YertSouth_1_RS.jpg",
+            "partyId": "47",
+            "constituencyId": "3357",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "6052",
+            "name": "ဦးမောင်မောင်စိန်",
+            "image": "https://maepaysoh.org/candidate-profile/2020-RS- U Mg Mg Sein-1.jpg",
+            "partyId": "47",
+            "constituencyId": "3358",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "6061",
+            "name": "ဒေါ်မေရီနျို့",
+            "image": "https://maepaysoh.org/candidate-profile/2020-RS- Daw Mary Noh-1.jpg",
+            "partyId": "47",
+            "constituencyId": "3359",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "6068",
+            "name": "ဦးအန်းဂျေလို",
+            "image": "https://maepaysoh.org/candidate-profile/2020-RS- U Ann Jlo-1.jpg",
+            "partyId": "47",
+            "constituencyId": "3360",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "6075",
+            "name": "ဦးအေးမင်းစိုး",
+            "image": "https://maepaysoh.org/candidate-profile/Rs-UAyeMinSoe.jpg",
+            "partyId": "47",
+            "constituencyId": "3361",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "6078",
+            "name": "ဦးစိုင်းဝဏ္ဏ",
+            "image": "https://maepaysoh.org/candidate-profile/2020-RS-USaiWunna-1.jpg",
+            "partyId": "47",
+            "constituencyId": "3362",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "6088",
+            "name": "ဦးအာကာလင်း",
+            "image": "https://maepaysoh.org/candidate-profile/2020-RS- U Arker Linn-1.jpg",
+            "partyId": "32",
+            "constituencyId": "3363",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "6094",
+            "name": "ဦးထွန်းထွန်းနိုင်",
+            "image": "https://maepaysoh.org/candidate-profile/UTunTunNaing-Pintaya2-RS.jpg",
+            "partyId": "47",
+            "constituencyId": "3364",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "6100",
+            "name": "ဦးခွန်မောင်ဖြူ",
+            "image": "https://maepaysoh.org/candidate-profile/2020-RS-UKhonMgPhyu-1.jpg",
+            "partyId": "5",
+            "constituencyId": "3365",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "6107",
+            "name": "ဦးစံလွင်(ခ)ခွန်စံလွင်",
+            "image": "https://maepaysoh.org/candidate-profile/2020-RS-USanLwin(N)KhonSanLwin-1.jpg",
+            "partyId": "5",
+            "constituencyId": "3366",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "6112",
+            "name": "ဦးဝင်းမင်းသိန်း",
+            "image": "https://maepaysoh.org/candidate-profile/2020-RS- U Win Min Thein-1.jpg",
+            "partyId": "5",
+            "constituencyId": "3367",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "6114",
+            "name": "ခွန်သန်းထူး",
+            "image": "https://maepaysoh.org/candidate-profile/2020-RS- Khun Than Htoo-1.jpg",
+            "partyId": "5",
+            "constituencyId": "3368",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "6118",
+            "name": "ခွန်စိုးမိုးကျော်",
+            "image": "https://maepaysoh.org/candidate-profile/2020-RS-KhonSoeMoeKyaw-1.jpg",
+            "partyId": "5",
+            "constituencyId": "3369",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "6124",
+            "name": "ခွန်ဖိုးစိန်",
+            "image": "https://maepaysoh.org/candidate-profile/2020-RS-KhonPhoeSein-1.jpg",
+            "partyId": "5",
+            "constituencyId": "3370",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "6129",
+            "name": "ဦးကြာထွန်း",
+            "image": "https://maepaysoh.org/candidate-profile/2020-RS-UKyarHtun-1.jpg",
+            "partyId": "12",
+            "constituencyId": "3371",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "6135",
+            "name": "ဦးနော်အောင်",
+            "image": "https://maepaysoh.org/candidate-profile/2020-RS-UNawAung.jpg",
+            "partyId": "32",
+            "constituencyId": "3372",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "6144",
+            "name": "ဦးအေးမောင်",
+            "image": "https://maepaysoh.org/candidate-profile/2020-RS-UAyeMaung-1.jpg",
+            "partyId": "12",
+            "constituencyId": "3373",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "6150",
+            "name": "ဒေါ်အိုင်စောစိန်",
+            "image": "https://maepaysoh.org/candidate-profile/2020-RS-DawISawSein.jpg",
+            "partyId": "12",
+            "constituencyId": "3374",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "6151",
+            "name": "ဦးစိုင်းကျော်သိန်း",
+            "image": "https://maepaysoh.org/candidate-profile/2020-RS- U Sai Kyaw Thein-1.jpg",
+            "partyId": "56",
+            "constituencyId": "3375",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "6161",
+            "name": "ဦးနော်တောင်",
+            "image": "https://maepaysoh.org/candidate-profile/2020-RS- U Naw Taung-1.jpg",
+            "partyId": "32",
+            "constituencyId": "3376",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "6166",
+            "name": "ဦးဇော်လွင်",
+            "image": "https://maepaysoh.org/candidate-profile/UZawLwin-MaBane1-RS.jpg",
+            "partyId": "32",
+            "constituencyId": "3377",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "6167",
+            "name": "ဦးမောင်ညို",
+            "image": "https://maepaysoh.org/candidate-profile/2020-RS-UMaungNyo-1.jpg",
+            "partyId": "47",
+            "constituencyId": "3377",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "6169",
+            "name": "ဦးခင်မောင်ထူး",
+            "image": "https://maepaysoh.org/candidate-profile/U Khin Maung Htoo.jpg",
+            "partyId": "32",
+            "constituencyId": "3378",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "6170",
+            "name": "ဦးမင်းမင်းသိန်း",
+            "image": "https://maepaysoh.org/candidate-profile/U Min Min Thein.jpg",
+            "partyId": "47",
+            "constituencyId": "3378",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "6179",
+            "name": "ဒေါ်ရီရီဝင်း",
+            "image": "https://maepaysoh.org/candidate-profile/2020-RS-DawYiYiWin-1.jpg",
+            "partyId": "47",
+            "constituencyId": "3379",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "6187",
+            "name": "ဦးမြင့်ရွှေ(ခ)အဂီး",
+            "image": "https://maepaysoh.org/candidate-profile/2020-RS-UMyintShwe(N)AGee-1.jpg",
+            "partyId": "47",
+            "constituencyId": "3380",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "6188",
+            "name": "ဦးခမ်းရွှေ",
+            "image": "https://maepaysoh.org/candidate-profile/2020-RS-UKhamShwe.jpg",
+            "partyId": "None",
+            "constituencyId": "3381",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "6193",
+            "name": "ဦးကျာကဇော်",
+            "image": "https://maepaysoh.org/candidate-profile/2020-RS-UKyarKaZaw.jpg",
+            "partyId": "3",
+            "constituencyId": "3382",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "6201",
+            "name": "ဦးသန်းဝင်း",
+            "image": "https://maepaysoh.org/candidate-profile/2020-RS- U Than Win-1.jpg",
+            "partyId": "32",
+            "constituencyId": "3387",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "6206",
+            "name": "ဦးယောဘ",
+            "image": "https://maepaysoh.org/candidate-profile/2020-RS- U Yaw Ba-1.jpg",
+            "partyId": "32",
+            "constituencyId": "3388",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "6210",
+            "name": "ဦးစောမူးလာ",
+            "image": "https://maepaysoh.org/candidate-profile/2020-RS- U Saw Mue Lar-1.jpg",
+            "partyId": "32",
+            "constituencyId": "3389",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "6216",
+            "name": "ဦးစိုင်းမတ်",
+            "image": "https://maepaysoh.org/candidate-profile/2020-RS- Sai Mat-5.jpg",
+            "partyId": "32",
+            "constituencyId": "3390",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "6224",
+            "name": "ဦးစိုင်းမွန်း",
+            "image": "https://maepaysoh.org/candidate-profile/2020-RS-USaiMoon.jpg",
+            "partyId": "32",
+            "constituencyId": "3391",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "6229",
+            "name": "ဦးစိုင်းခမ်းမြတ်",
+            "image": "https://maepaysoh.org/candidate-profile/2020-RS-USaiKhamMyat-1.jpg",
+            "partyId": "56",
+            "constituencyId": "3392",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "6235",
+            "name": "ဦးစိုင်းဆေအွမ်မိုင်း",
+            "image": "https://maepaysoh.org/candidate-profile/Sai Say Owan Mine.jpg",
+            "partyId": "56",
+            "constituencyId": "3393",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "6239",
+            "name": "စိုင်းမြင့်ထူး",
+            "image": "https://maepaysoh.org/candidate-profile/2020-RS-USaiMyintHtoo.jpg",
+            "partyId": "56",
+            "constituencyId": "3394",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "6249",
+            "name": "ဒေါက်တာလင်းထွဋ်",
+            "image": "https://maepaysoh.org/candidate-profile/Dr Linn Htut-_Lasho_1_RS.jpg",
+            "partyId": "47",
+            "constituencyId": "3395",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "6257",
+            "name": "ဒေါ်ရီရီမင်း",
+            "image": "https://maepaysoh.org/candidate-profile/2020-RS- Daw Yee Yee Min-1.jpg",
+            "partyId": "47",
+            "constituencyId": "3396",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "6266",
+            "name": "နန်းခင်ထားရီ",
+            "image": "https://maepaysoh.org/candidate-profile/2020-RS- Daw Nan Khin Htar Yee-1.jpg",
+            "partyId": "56",
+            "constituencyId": "3397",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "6271",
+            "name": "ဦးစိုင်းပွမ်ဝမ်း",
+            "image": "https://maepaysoh.org/candidate-profile/2020-RS- Sai Pwan Wun-1.jpg",
+            "partyId": "56",
+            "constituencyId": "3398",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "6276",
+            "name": "ဦးထွန်းရင်(ခ)လောက်ဝူ",
+            "image": "https://maepaysoh.org/candidate-profile/2020-RS-UHtunYin-1.jpg",
+            "partyId": "32",
+            "constituencyId": "3399",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "6283",
+            "name": "ဦးဟော်ထိုက်ဖူ(ခ)ဦးအောင်ကျော်ထွန်း",
+            "image": "https://maepaysoh.org/candidate-profile/2020-RS-UHawHtikeFu-5.jpg",
+            "partyId": "32",
+            "constituencyId": "3400",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "6286",
+            "name": "စိုင်းမွန်းလိန်",
+            "image": "https://maepaysoh.org/candidate-profile/2020-RS- Sai Mon Lain-1.jpg",
+            "partyId": "56",
+            "constituencyId": "3401",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "6292",
+            "name": "စိုင်းဝင်းနိုင်",
+            "image": "https://maepaysoh.org/candidate-profile/2020-RS- Sai Win Naing-1.jpg",
+            "partyId": "56",
+            "constituencyId": "3402",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "6298",
+            "name": "စိုင်းနောင့်",
+            "image": "https://maepaysoh.org/candidate-profile/2020-RS- Sai Nount-1.jpg",
+            "partyId": "15",
+            "constituencyId": "3403",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "6305",
+            "name": "စိုင်းအောင်ခမ်း",
+            "image": "https://maepaysoh.org/candidate-profile/SaiAungKham-MinePan2-RS.jpg",
+            "partyId": "32",
+            "constituencyId": "3404",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "6308",
+            "name": "နန်းဖွေးဟွမ်ဦး",
+            "image": "https://maepaysoh.org/candidate-profile/2020-RS-NanPhwayHwanOo-1.jpg",
+            "partyId": "56",
+            "constituencyId": "3405",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "6311",
+            "name": "ခွန်ဟန်သိန်းဦး",
+            "image": "https://maepaysoh.org/candidate-profile/Rs-KhunHanTheinOo.jpg",
+            "partyId": "32",
+            "constituencyId": "3406",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "6320",
+            "name": "နန်းခမ်း",
+            "image": "https://maepaysoh.org/candidate-profile/2020-RS- Nan Kham-1.jpg",
+            "partyId": "56",
+            "constituencyId": "3407",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "6321",
+            "name": "စိုင်းကျော်စိန်",
+            "image": "https://maepaysoh.org/candidate-profile/2020-RS- Sai Kyaw Sein-1.jpg",
+            "partyId": "56",
+            "constituencyId": "3408",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "6328",
+            "name": "ဦးလီကျိန်းဖူ(ခ)မြင့်ဆွေ",
+            "image": "https://maepaysoh.org/candidate-profile/2020-RS- U Le Kyain Pue @ Myint Swe-1.jpg",
+            "partyId": "32",
+            "constituencyId": "3409",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "6331",
+            "name": "ဦးမောင်မောင်",
+            "image": "https://maepaysoh.org/candidate-profile/2020-RS- U Mg Mg-1.jpg",
+            "partyId": "32",
+            "constituencyId": "3410",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "6334",
+            "name": "ဦးလူတယ်ဟုန်(ခ)ဦးအောင်ရွှေ",
+            "image": "https://maepaysoh.org/candidate-profile/2020-RS-ULuuTalHone-1.jpg",
+            "partyId": "32",
+            "constituencyId": "3411",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "6337",
+            "name": "ဦးဘေရင်နယ် (ခ)ခင်မောင်လွင်",
+            "image": "https://maepaysoh.org/candidate-profile/2020-RS-UBayYinNal-1.jpg",
+            "partyId": "32",
+            "constituencyId": "3412",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "6339",
+            "name": "စိုင်းစံမိုင်း",
+            "image": "https://maepaysoh.org/candidate-profile/Sai Sai Maine.jpg",
+            "partyId": "56",
+            "constituencyId": "3413",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "6346",
+            "name": "ဦးခင်မောင်ညွန့်",
+            "image": "https://maepaysoh.org/candidate-profile/2020-RS-UKhinMaungNyunt-4.jpg",
+            "partyId": "56",
+            "constituencyId": "3414",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "6351",
+            "name": "ဦးစိုင်းစံထွန်း",
+            "image": "https://maepaysoh.org/candidate-profile/2020-RS- U Sai San Tun-1.jpg",
+            "partyId": "56",
+            "constituencyId": "3415",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "6357",
+            "name": "စိုင်းအောင်ကျော်ဦး",
+            "image": "https://maepaysoh.org/candidate-profile/2020-RS- Sai Aung Kyaw Oo-1.jpg",
+            "partyId": "56",
+            "constituencyId": "3416",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "6365",
+            "name": "ဦးလင်းအောင်ဆွေ",
+            "image": "https://maepaysoh.org/candidate-profile/RS-ULinAungSwe.jpg",
+            "partyId": "32",
+            "constituencyId": "3417",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "6370",
+            "name": "စိုင်းမိန်းခွမ်း",
+            "image": "https://maepaysoh.org/candidate-profile/2020-RS- Sai Main Khwan-1.jpg",
+            "partyId": "56",
+            "constituencyId": "3418",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "6390",
+            "name": "ဒေါ်နန်းကောင်ခမ်း",
+            "image": "https://maepaysoh.org/candidate-profile/2020-RS-Daw  Nan Kaung Kham-1.jpg",
+            "partyId": "56",
+            "constituencyId": "3421",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "6396",
+            "name": "စိုင်းအုန်း",
+            "image": "https://maepaysoh.org/candidate-profile/2020-RS- Sai Ohn-4.jpg",
+            "partyId": "56",
+            "constituencyId": "3422",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "6401",
+            "name": "စိုင်းဥက္ကာ",
+            "image": "https://maepaysoh.org/candidate-profile/2020-RS-SaiOakkar-1.jpg",
+            "partyId": "56",
+            "constituencyId": "3423",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "6406",
+            "name": "စိုင်းသူရိန်ဦး",
+            "image": "https://maepaysoh.org/candidate-profile/2020-RS-SaiThuRainOo-1.jpg",
+            "partyId": "56",
+            "constituencyId": "3424",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "6410",
+            "name": "ဦးခွန်ကျော်ဝေါင်း",
+            "image": "https://maepaysoh.org/candidate-profile/2020-RS- Khun Kyaw Wong-1.jpg",
+            "partyId": "5",
+            "constituencyId": "3425",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "6419",
+            "name": "နန်းမြထွေး",
+            "image": "https://maepaysoh.org/candidate-profile/Nann Mya Httwe.jpg",
+            "partyId": "56",
+            "constituencyId": "3426",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "6427",
+            "name": "ဦးရန်ကျော်",
+            "image": "https://maepaysoh.org/candidate-profile/RS-UYanKyaw.jpg",
+            "partyId": "128",
+            "constituencyId": "3427",
+            "house": "state",
+            "township": "None"
+        },
+        {
+            "id": "6431",
+            "name": "ဦးညီနပ်",
+            "image": "https://maepaysoh.org/candidate-profile/RS-UNyiNap.jpg",
+            "partyId": "32",
+            "constituencyId": "3428",
+            "house": "state",
+            "township": "None"
+        }
+    ]
+}
